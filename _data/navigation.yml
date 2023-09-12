@@ -8,10 +8,10 @@
   menu: 
   - text: Occurrences
     href: /occurrence/search
-  - text: Institutions
-    href: /institution/search
-  - text: Collections
-    href: /collection/search
+  - text: Taxonomy
+    href: /taxonomy/search
+  - text: Phylogeny
+    href: /phylogeny/explore
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple

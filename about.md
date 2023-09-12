@@ -1,10 +1,11 @@
 ---
 lang-ref: about
 title: About
+layout: heroImage
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background:  "{{ site.data.images.solanum.src }}"
-imageLicense: "{{ site.data.images.solanum.caption }}"
-height: 70vh
+background:  "{{ site.data.images.nolana.src }}"
+imageLicense: "{{ site.data.images.nolana.caption }}"
+height: 50vh
 ---
 
 ## Procris quippe mentior urbes ubi

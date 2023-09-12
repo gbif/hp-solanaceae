@@ -17,7 +17,7 @@ var siteConfig = {
     rootPredicate: {
       "type": "and",
       "predicates": [
-        { "type": "equals", "key": "taxonKey", "value": "7299182" },
+        { "type": "equals", "key": "taxonKey", "value": "7717" },
         { "type": "equals", "key": "hasGeospatialIssue", "value": "false" }
       ]
     },

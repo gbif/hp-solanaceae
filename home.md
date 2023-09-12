@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: Solanaceae Source
 description: A global taxonomic resource for the nightshade family
-background:  https://inaturalist-open-data.s3.amazonaws.com/photos/250735382/original.jpeg #"{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: Datura stramonium L. observed in Spain by Alba (licensed under http://creativecommons.org/licenses/by-nc/4.0/) # "{{ site.data.images.acalypha_gillespieae.caption }}"
+background:  "{{ site.data.images.datura.src }}"
+imageLicense: "{{ site.data.images.datura.caption }}"
 height: 60vh
 cta:
   - text: Occurrences
@@ -13,7 +13,7 @@ cta:
   - text: Taxonomy
     href: /taxonomy/browse
   - text: Phylogeny
-    href: /phylogeny
+    href: /phylogeny/explore
   - text: About
     href: /about
 composition:

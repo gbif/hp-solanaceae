@@ -10,10 +10,10 @@
 # background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
 # imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
 
-irpex:
-  src: /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
+datura:
+  src: /assets/images/placeholders/datura_4014889973.jpeg
   caption: |
-    [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+    [Datura stramonium L.](https://www.gbif.org/occurrence/4014889973) observed in Spain by Alba (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))
 puccinia:
   src: /assets/images/placeholders/puccinia-grahamii-1135811910.jpg
   caption: |

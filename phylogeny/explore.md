@@ -9,8 +9,8 @@ description: |
     <a href="#phylogenetic-exploration-of-gbif-data" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/250892331/original.jpg
-imageLicense: https://www.gbif.org/occurrence/4014939127
+background:  "{{ site.data.images.solanum.src }}"
+imageLicense: "{{ site.data.images.solanum.caption }}"
 height: 50vh
 composition: 
   - type: heroImage

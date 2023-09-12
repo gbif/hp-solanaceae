@@ -14,10 +14,10 @@ datura:
   src: /assets/images/placeholders/datura_4014889973.jpeg
   caption: |
     [Datura stramonium L.](https://www.gbif.org/occurrence/4014889973) observed in Spain by Alba (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))
-puccinia:
-  src: /assets/images/placeholders/puccinia-grahamii-1135811910.jpg
+solanum:
+  src: /assets/images/placeholders/IMG_4060_1686928512_lg.jpg
   caption: |
-    [Holotype of _Puccinia grahamii_ G.Cunn.](https://www.gbif.org/occurrence/1135811910) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+    [Preserved specimen of _Solanum elaeagnifolium_ Cav.](https://www.gbif.org/occurrence/4154096422) from University of California, Irvine Herbarium (IRVC). (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))
 garcinia:
   src: /assets/images/placeholders/garcinia_2563424903.jpg
   caption: |

@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: Salanaceae Source
 layout: heroImage
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background:  "{{ site.data.images.nolana.src }}"

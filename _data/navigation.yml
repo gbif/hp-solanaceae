@@ -14,7 +14,7 @@
     href: /phylogeny/explore
 - text: Nightshades
   menu: # Dropdown menu (one level deep only)
-  - text: Diveristy
+  - text: Diversity
     href: /diversity
   - text: Distribution
     href: /distribution

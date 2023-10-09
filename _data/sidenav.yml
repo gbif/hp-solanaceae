@@ -6,20 +6,6 @@ taxonomy:
     path: /taxonomy/browse
   - title: Advanced search
     path: /taxonomy/search
-- grouptitle: Subfamilies
-  content:
-  - title: Cercidoideae
-    path: /taxonomy/cercidoideae
-  - title: Detarioideae
-    path: /taxonomy/detarioideae
-  - title: Duparquetioideae
-    path: /taxonomy/duparquetioideae
-  - title: Dialioideae
-    path: /taxonomy/dialioideae
-  - title: Caesalpinioideae
-    path: /taxonomy/caesalpinioideae
-  - title: Papilionoideae
-    path: /taxonomy/papilionoideae
 beanbag67:
 - content:
   - title: Table of contents

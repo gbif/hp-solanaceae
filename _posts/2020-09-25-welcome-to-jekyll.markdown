@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to new Solanaceae Source"
 date:   2020-09-25 21:37:12 +0200
-categories: jekyll update
+categories: update
 lang-ref: portal update
 background: datura_4014889973.jpeg
 ---

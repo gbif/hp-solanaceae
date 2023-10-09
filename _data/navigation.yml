@@ -14,10 +14,14 @@
     href: /phylogeny/explore
 - text: Nightshades
   menu: # Dropdown menu (one level deep only)
-  - text: what are Nightshades
-    href: /example-pages/what
- # - text: Complex
-    href: /example-pages/complex
+  - text: Diveristy
+    href: /diversity
+  - text: Distribution
+    href: /distribution
+  - text: Genomics
+    href: /genomics
+  - text: Uses
+    href: /uses
 #- text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo

@@ -7,6 +7,7 @@ imageLicense: "{{ site.data.images.nolana.caption }}"
 height: 50vh
 ---
 
-## Welcome to Solanaceae Source
+## Distribution of Solanaceae
 
-Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias). We began this journey with the on-line monograph of all species in the mega-diverse genus Solanum. The National Science Foundation (NSF) funded the Solanum project as part of the [Planetary Biodiversity Inventories](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103065#:~:text=The%20Planetary%20Biodiversity%20Inventory%20is,and%20the%20National%20Science%20Foundation.&text=The%20U.S.%20National%20Science%20Foundation,fields%20of%20science%20and%20engineering). (PBI) mission.
+
+Although Solanaceae are found on most continents, the majority of the species in the family occur in Central and South America. Other centers of species diversity include Australia and Africa. Solanaceae are often found in secondary vegetation in disturbed areas, but species can occupy a variety of habitats, from deserts to tropical rainforests.

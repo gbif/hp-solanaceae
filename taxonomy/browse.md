@@ -3,12 +3,12 @@ layout: documentation
 sideNavigation: sidenav.taxonomy
 title: Browse
 permalink: /taxonomy/browse
-description: Browse the checklist of Fabaceae
+description: Browse the checklist of Solanaceae
 klass: fullwidth
 lang-ref: species-browse
 ---
 
-You can download the latest version of the WCVP-Fabaceae list in .txt (with DarwinCore fields) from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in Word format [here](/media/WCVP_Fabaceae_checklist_May_2022.docx).
+You can download the latest version of the Solanceae Source list in .txt (with DarwinCore fields) from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in Word format [here](/media/WCVP_Fabaceae_checklist_May_2022.docx).
 
 
 <!--react and gbif component-->

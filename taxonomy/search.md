@@ -7,6 +7,7 @@ description: Search the checklist of Fabaceae
 klass: fullwidth
 lang-ref: species-search
 ---
+You can download the latest version of the Solanceae Source list in .txt (with DarwinCore fields) from the Catalogue of Life ChecklistBank and in Word format here.
 
 <!--react and gbif component-->
 <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>

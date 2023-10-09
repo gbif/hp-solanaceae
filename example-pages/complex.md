@@ -22,9 +22,9 @@ composition:
     description: This example shows how you can define the data content inline instead of in a separate file
     features:
       - preTitle: PDF  # optional
-        title: Abundantly light years # required
+        title: Solanaceae Source # required
         description: |      # required
-          Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+          Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias).
         # img required
         background: /assets/img/Haeckel_Caulerpa_racemosa.jpeg
         imageLicense: None for this image, but it would normally go here. Markdown is allowed.

@@ -7,6 +7,20 @@ imageLicense: "{{ site.data.images.nolana.caption }}"
 height: 50vh
 ---
 
-## Welcome to Solanaceae Source
+## Diversity of Solanaceae
 
-Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias). We began this journey with the on-line monograph of all species in the mega-diverse genus Solanum. The National Science Foundation (NSF) funded the Solanum project as part of the [Planetary Biodiversity Inventories](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103065#:~:text=The%20Planetary%20Biodiversity%20Inventory%20is,and%20the%20National%20Science%20Foundation.&text=The%20U.S.%20National%20Science%20Foundation,fields%20of%20science%20and%20engineering). (PBI) mission.
+
+Although very important commercially, the family is only a medium sized one with approximately 90 genera and 3000-4000 species. However, members of the Solanaceae are extremely diverse in terms of habit, morphology, and ecology, ranging from trees or shrubs to vines, lianas, epiphytes, and annual herbs. Morphologically they show astounding variation in many flower and fruit characteristics.
+
+
+| Genus              |Approximate number of species |                                                                
+| -----------------  |:----------------------------:|
+| Solanaceae family  | 3000-4000                    | 
+| Solanum            | 1000-2000                    |
+| Cestrum            | ca. 250                      |
+| Lycianthes         | ca. 250                      |
+| Nolana             | ca. 80                       |
+| Physalis           | ca. 80                       |
+| Lycium             | ca. 75                       |
+| Nicotiana          | ca. 70                       |
+| Brunfelsia         | ca. 45                       |

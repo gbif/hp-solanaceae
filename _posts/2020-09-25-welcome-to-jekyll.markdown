@@ -3,7 +3,7 @@ title:  "Welcome to new Solanaceae Source"
 date:   2020-09-25 21:37:12 +0200
 categories: jekyll update
 lang-ref: portal update
-background: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
+background: datura_4014889973.jpeg
 ---
 The Solanacaeae Source is being updated and transfered to this GBIF hosted portal.
 

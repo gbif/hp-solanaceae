@@ -58,7 +58,7 @@ We welcome your feedback on your experiences and any issues you encounter. Speci
 
 ## What is this?
 
-This visualization tool combines a recently published phylogeny of Mimosoid legumes ([Ringelberg et al. 2023](https://www.science.org/doi/10.1126/sciadv.ade4954)) and aligns it with GBIF occurrence data. The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy. We then use the taxonomic match to map occurrence data from GBIF for that taxon. For an individual species this is identical to a species map on GBIF.org. 
+This visualization tool combines a recently published phylogeny of Solanaceae [Särkinen et al. 2013](https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-13-214) and aligns it with GBIF occurrence data. The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy. We then use the taxonomic match to map occurrence data from GBIF for that taxon. For an individual species this is identical to a species map on GBIF.org. 
 
 The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
 

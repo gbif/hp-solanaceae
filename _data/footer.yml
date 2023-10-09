@@ -3,9 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Sandy Knapp
+  - name: Code
     links:
-    - text: Natural Histroy Museum
+    - text: Sandy Knapp
       href: https://www.nhm.ac.uk/
     - text: Your name here
       href: http://example.com

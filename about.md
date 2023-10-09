@@ -2,7 +2,7 @@
 lang-ref: about
 title: Solanaceae Source
 layout: heroImage
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: A global taxonomic resource for the nightshade family
 background:  "{{ site.data.images.nolana.src }}"
 imageLicense: "{{ site.data.images.nolana.caption }}"
 height: 50vh

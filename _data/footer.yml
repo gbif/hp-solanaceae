@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Code
+  - name: Partners
     links:
     - text: Sandy Knapp
       href: https://www.nhm.ac.uk/

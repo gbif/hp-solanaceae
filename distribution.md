@@ -11,3 +11,5 @@ height: 50vh
 
 
 Although Solanaceae are found on most continents, the majority of the species in the family occur in Central and South America. Other centers of species diversity include Australia and Africa. Solanaceae are often found in secondary vegetation in disturbed areas, but species can occupy a variety of habitats, from deserts to tropical rainforests.
+
+[View](https://solanaceae.hp.gbif-staging.org/occurrence/search/) the distributon of Solanaceae occurrences in GBIF

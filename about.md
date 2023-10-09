@@ -14,6 +14,18 @@ Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightsh
 
 We added names for all members of the family to the resource with the collaboration of the [International Plant Names Index](IPNI), and are working through these with the help of the Solanaceae community worldwide. This will contribute to diverse projects such as the World Flora On-Line that is contributing the the Global Strategy for Plant Conservation.
 
+
+NOTE: The specimen data presented on the website are NOT up to date, we are working on a better way to present them; they should be used with caution!
+
+The website and database behind it are constantly being updated and improved - we hope you will bear with us as we both improve the site and the data that underpin it. Synonymy may not be perfectly up to date, and some new species may have not been added yet. 
+
+
+
+## NOTE: Below is the type of formatted text that can be used to further develop the Solanaceae Source hosted portal
+
+
+
+
 ## Quam ex te videt
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem

@@ -3,11 +3,11 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Sandy Knapp
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
+    - text: Natural Histroy Museum
+      href: https://www.nhm.ac.uk/
+    - text: Your name here
       href: http://example.com
 
   - name: Code

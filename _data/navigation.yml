@@ -12,11 +12,11 @@
     href: /taxonomy/search
   - text: Phylogeny
     href: /phylogeny/explore
-- text: Example pages
+- text: Nightshades
   menu: # Dropdown menu (one level deep only)
-  - text: Simple
-    href: /example-pages/simple
-  - text: Complex
+  - text: what are Nightshades
+    href: /example-pages/what
+ # - text: Complex
     href: /example-pages/complex
 - text: Links
   menu: # Dropdown menu (one level deep only)

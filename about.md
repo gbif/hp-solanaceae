@@ -23,16 +23,28 @@ NOTE: The specimen data presented here is all data from GBIF - this should be us
 
 Solanaceae is a relatively small angiosperm family with c. 2,700 species but has a disproportionate impact in our society because many species in the family are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades), and in horticulture (petunias). The family also includes species used as recreational drugs (tobacco and devil's trumpet). 
 
-The Solanaceae infrafamiliar classification recognized here includes 8 subfamilies and 24 tribes (some lacking formal Latin botanical names indicated in quotation marks below) following [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000654).
+The Solanaceae currently includes 106 genera divided into 8 subfamilies and 24 tribes (some lacking formal Latin botanical names indicated in quotation marks below) following [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000654).
 
 * **Cestroideae**
   * "Protoschwenkieae"
+       * *Protoschwenkia*
   * Benthamielleae
+       * *Benthamiella*
+       * *Combrera*
+       * *Pantacantha*
   * Browallieae
+       * *Browallia*
+       * *Streptosolen*
   * Cestreae
+       * *Cestrum*
+       * *Sessea*
+       * *Vestia*
   * Salpiglossideae
+       * *Salpiglossis*
+       * *Reyesia*
 * **Duckeodendroideae**
   * "Duckeodendeae"
+       * *Duckeodendron*
 * **Goetzeoideae**
   * "Goetzeae"
 * **Nicotianoideae**

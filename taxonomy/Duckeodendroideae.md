@@ -10,7 +10,7 @@ lang-ref: Duckeodendroideae
 background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
 imageLicense: |
   *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Solanum
+description: Information about Duckeodendroideae
 height: 70vh
 toc: true
 ---

@@ -1,20 +1,23 @@
 ---
 lang-ref: about
-title: Solanaceae Source
+title: About Solanaceae
 layout: heroImage
-description: A global taxonomic resource for the nightshade family
+description: The Family and the Community
 background:  "{{ site.data.images.nolana.src }}"
 imageLicense: "{{ site.data.images.nolana.caption }}"
 height: 50vh
 ---
 
-## Welcome to Solanaceae Source
+## About Solanaceae Source
 
 Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias). We began this journey with the on-line monograph of all species in the mega-diverse genus Solanum. The National Science Foundation (NSF) funded the Solanum project as part of the [Planetary Biodiversity Inventories](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103065#:~:text=The%20Planetary%20Biodiversity%20Inventory%20is,and%20the%20National%20Science%20Foundation.&text=The%20U.S.%20National%20Science%20Foundation,fields%20of%20science%20and%20engineering) (PBI) mission.
 
 The data presents the most taxonomically authoritative list of Solanaceae names. Our dataset includes all published names of Solanaceae from the [International Plant Names Index](IPNI) and we continually work through these names with the help of the Solanaceae taxonomic community worldwide. This means the data behind Solanaceae Source and the Solanaceae Data Portal are constantly being updated and improved. 
 
 The data shown here also flows into [World Flora Online] and is run and maintained by the [Taxonomic Expert Network of Solanaceae](https://worldfloraonline.org/organisation/Solanaceae). We welcome new members so if you would like to join us, please [contact us](mailto:tsarkinen@rbge.org.uk). 
+
+If you want to cite Solanaceae Data Portal or Solanaceae Source, please use the following citation format:
+ADD HERE
 
 NOTE: The specimen data presented here is all data from GBIF - this should be used with caution because of determination issues. We are working on how to add our taxonomically verified specimen data from SolanaceaeSource on top of this data to enable comparisons.
 
@@ -25,6 +28,12 @@ Solanaceae is a relatively small angiosperm family with c. 2,700 species but has
 
 The Solanaceae currently includes 106 genera divided into 8 subfamilies and 24 tribes (some lacking formal Latin botanical names indicated in quotation marks below) following [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000654).
 
+## *Solanum* genus
+*Solanum* is one of the megadiverse genera of angiosperms with more than 1,000 species [(Moonlight et al. 2024)](https://doi.org/10.1098/rspb.2024.0702). The single genus currently includes c. 1,243 accepted species (but **see the most updated species number under the home page** of this data portal).
+
+*Solanum* includes three major crop species (tomato *S. lycopersicum*, potato *S. tuberosum*, and brinjal eggplant *S. melongena*) and at least 24 regionally important crops such as African eggplant (*S. macrocarpon*), bitter tomato also known as scarlet eggplant or gilo (*S. aethiopicum*), pepino (*S. muricatum*), lulo (*S. quitoense*), and African nightshades (*S. scabrum* and its relatives). 
+
+## Solanaceae Infrafamiliar Classification
 * **Cestroideae**
   * "Protoschwenkieae"
        * *Protoschwenkia*
@@ -73,35 +82,10 @@ The Solanaceae currently includes 106 genera divided into 8 subfamilies and 24 t
   * Solandreae
   * Solaneae
 
+## *Solanum* Infrageneric Classification
 
-## Solanum
-*Solanum* is one of the megadiverse genera of angiosperms with more than 1,000 species [(Moonlight et al. 2024)](https://doi.org/10.1098/rspb.2024.0702). The single genus currently includes c. 1,243 accepted species (but **see the most updated species number under the home page** of this data portal).
+Solanum is divided into XX major and XX minor clades based on the most recent phylogenetic evidence (REFS here). These clades act as the current informal infrageneric classification. Some of these clades match (at least roughly) to formally described infrageneric groups, and these are indicated below. 
 
-*Solanum* includes three major crop species (tomato *S. lycopersicum*, potato *S. tuberosum*, and brinjal eggplant *S. melongena*) and at least 24 regionally important crops such as XX, XX, and XX. 
-
-
-## Extra for further development
-
-Clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
-
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
-
-
---------
 
 ### Turbatque promittat memorque
 
@@ -116,16 +100,6 @@ dum: fateor profugus renovatus exhalantem.
 | tables        | are useful    |    $1 |
 
 --------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
 
 ## Est mea videndo
 

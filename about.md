@@ -2,6 +2,7 @@
 lang-ref: about
 title: About Solanaceae
 layout: heroImage
+sideNavigation: sidenav.taxonomy
 description: The Family and the Community
 background:  "{{ site.data.images.nolana.src }}"
 imageLicense: "{{ site.data.images.nolana.caption }}"

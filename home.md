@@ -7,7 +7,7 @@ background:  "{{ site.data.images.datura.src }}"
 imageLicense: "{{ site.data.images.datura.caption }}"
 height: 60vh
 cta:
-  - text: Occurrences
+  - text: Occurrence Data
     href: /occurrence/search
     isPrimary: true
   - text: Taxonomy
@@ -16,15 +16,15 @@ cta:
     href: /phylogeny/explore
   - text: About
     href: /about
+    isPrimary: true
+permalink: /
 composition:
   - type: heroImage # the block type
-  - type: features
-    data: examples.couldBeAnyName
-  - type: split
-    data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
-permalink: /
+  - data: home.stats
+    type: stats
+  - type: latestPosts
+    data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
+parallax: true
 ---
 
-This text currently wont show as we overwrite it with the content in composition above. So the data is being pulled in from various files in the _data folder.
+

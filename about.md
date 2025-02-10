@@ -10,26 +10,67 @@ height: 50vh
 
 ## Welcome to Solanaceae Source
 
-Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias). We began this journey with the on-line monograph of all species in the mega-diverse genus Solanum. The National Science Foundation (NSF) funded the Solanum project as part of the [Planetary Biodiversity Inventories](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103065#:~:text=The%20Planetary%20Biodiversity%20Inventory%20is,and%20the%20National%20Science%20Foundation.&text=The%20U.S.%20National%20Science%20Foundation,fields%20of%20science%20and%20engineering). (PBI) mission.
+Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias). We began this journey with the on-line monograph of all species in the mega-diverse genus Solanum. The National Science Foundation (NSF) funded the Solanum project as part of the [Planetary Biodiversity Inventories](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103065#:~:text=The%20Planetary%20Biodiversity%20Inventory%20is,and%20the%20National%20Science%20Foundation.&text=The%20U.S.%20National%20Science%20Foundation,fields%20of%20science%20and%20engineering) (PBI) mission.
 
-We added names for all members of the family to the resource with the collaboration of the [International Plant Names Index](IPNI), and are working through these with the help of the Solanaceae community worldwide. This will contribute to diverse projects such as the World Flora On-Line that is contributing the the Global Strategy for Plant Conservation.
+The data presents the most taxonomically authoritative list of Solanaceae names. Our dataset includes all published names of Solanaceae from the [International Plant Names Index](IPNI) and we continually work through these names with the help of the Solanaceae taxonomic community worldwide. This means the data behind Solanaceae Source and the Solanaceae Data Portal are constantly being updated and improved. 
 
+The data shown here also flows into [World Flora Online] and is run and maintained by the [Taxonomic Expert Network of Solanaceae](https://worldfloraonline.org/organisation/Solanaceae). We welcome new members so if you would like to join us, please [contact us](mailto:tsarkinen@rbge.org.uk). 
 
-NOTE: The specimen data presented on the website are NOT up to date, we are working on a better way to present them; they should be used with caution!
-
-The website and database behind it are constantly being updated and improved - we hope you will bear with us as we both improve the site and the data that underpin it. Synonymy may not be perfectly up to date, and some new species may have not been added yet. 
-
+NOTE: The specimen data presented here is all data from GBIF - this should be used with caution because of determination issues. We are working on how to add our taxonomically verified specimen data from SolanaceaeSource on top of this data to enable comparisons.
 
 
-## NOTE: Below is the type of formatted text that can be used to further develop the Solanaceae Source hosted portal
+## Solanaceae Family
+
+Solanaceae is a relatively small angiosperm family with c. 2,700 species but has a disproportionate impact in our society because many species in the family are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades), and in horticulture (petunias). The family also includes species used as recreational drugs (tobacco and devil's trumpet). 
+
+The Solanaceae infrafamiliar classification recognized here includes 8 subfamilies and 24 tribes (some lacking formal Latin botanical names indicated in quotation marks below) following [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000654).
+
+* **Cestroideae**
+  * "Protoschwenkieae"
+  * Benthamielleae
+  * Browallieae
+  * Cestreae
+  * Salpiglossideae
+* **Duckeodendroideae**
+  * "Duckeodendeae"
+* **Goetzeoideae**
+  * "Goetzeae"
+* **Nicotianoideae**
+  * Anthocercideae
+  * Nicotianeae
+* **Petunioideae**
+  * Petunieae
+* **Schizanthoideae**
+  * Schizantheae
+* **Schwenckioideae**
+  * Schwenckieae
+* **Solanoideae**
+  * "Salpichroeae"
+  * Capsiceae
+  * Datureae
+  * Hyoscyameae
+  * Jaboroseae
+  * Latueae
+  * Lycieae
+  * Mandragoreae
+  * Nicandreae
+  * Physalideae
+    * Iochrominae
+    * Physalidinae
+    * Withaninae
+  * Solandreae
+  * Solaneae
 
 
+## Solanum
+*Solanum* is one of the megadiverse genera of angiosperms with more than 1,000 species [(Moonlight et al. 2024)](https://doi.org/10.1098/rspb.2024.0702). The single genus currently includes c. 1,243 accepted species (but **see the most updated species number under the home page** of this data portal).
+
+*Solanum* includes three major crop species (tomato *S. lycopersicum*, potato *S. tuberosum*, and brinjal eggplant *S. melongena*) and at least 24 regionally important crops such as XX, XX, and XX. 
 
 
-## Quam ex te videt
+## Extra for further development
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
+Clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
 ubi**.
 
     var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
@@ -47,18 +88,8 @@ ubi**.
         safeCifsIde = odbc_modem;
     }
 
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
 
 --------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
 
 ### Turbatque promittat memorque
 
@@ -94,5 +125,4 @@ dependent artisque audacem habuissem, et est rebus, sed?
 
 [Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
 
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+

@@ -8,6 +8,15 @@ imageLicense: "{{ site.data.images.nolana.caption }}"
 height: 50vh
 ---
 
+## Solanaceae Family
+
+Solanaceae is a relatively small angiosperm family with c. 2,700 species with a disproportionate number of cultivated species used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades), and in horticulture (petunias). The family also includes several recreational drugs (tobacco and devil's trumpet). 
+
+Solanaceae currently includes 106 genera divided into 8 subfamilies and 24 tribes (some lacking formal Latin botanical names indicated in quotation marks below) following [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000654).
+
+*Solanum* currently includes c. 1,243 accepted species (but **see the most updated species number under the home page** of this data portal), which is nearly half of the species diversity in the family. The genus is one of the most economically important genera in the World, as it contains three major crop species (tomato *S. lycopersicum*, potato *S. tuberosum*, and brinjal eggplant *S. melongena*) and at least 24 regionally important crops such as African eggplant (*S. macrocarpon*), bitter tomato also known as scarlet eggplant or gilo (*S. aethiopicum*), pepino (*S. muricatum*), lulo (*S. quitoense*), and African nightshades (*S. scabrum* and its relatives). 
+
+
 ## About Solanaceae Source
 
 Solanaceae Source aims to provide a worldwide taxonomic monograph of the nightshade family whose species that are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades) and in horticulture (petunias). We began this journey with the on-line monograph of all species in the mega-diverse genus Solanum. The National Science Foundation (NSF) funded the Solanum project as part of the [Planetary Biodiversity Inventories](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103065#:~:text=The%20Planetary%20Biodiversity%20Inventory%20is,and%20the%20National%20Science%20Foundation.&text=The%20U.S.%20National%20Science%20Foundation,fields%20of%20science%20and%20engineering) (PBI) mission.
@@ -21,17 +30,6 @@ ADD HERE
 
 NOTE: The specimen data presented here is all data from GBIF - this should be used with caution because of determination issues. We are working on how to add our taxonomically verified specimen data from SolanaceaeSource on top of this data to enable comparisons.
 
-
-## Solanaceae Family
-
-Solanaceae is a relatively small angiosperm family with c. 2,700 species but has a disproportionate impact in our society because many species in the family are used as food (potatoes, tomatoes and eggplants), medicines (henbane and deadly nightshades), and in horticulture (petunias). The family also includes species used as recreational drugs (tobacco and devil's trumpet). 
-
-The Solanaceae currently includes 106 genera divided into 8 subfamilies and 24 tribes (some lacking formal Latin botanical names indicated in quotation marks below) following [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000654).
-
-## *Solanum* genus
-*Solanum* is one of the megadiverse genera of angiosperms with more than 1,000 species [(Moonlight et al. 2024)](https://doi.org/10.1098/rspb.2024.0702). The single genus currently includes c. 1,243 accepted species (but **see the most updated species number under the home page** of this data portal).
-
-*Solanum* includes three major crop species (tomato *S. lycopersicum*, potato *S. tuberosum*, and brinjal eggplant *S. melongena*) and at least 24 regionally important crops such as African eggplant (*S. macrocarpon*), bitter tomato also known as scarlet eggplant or gilo (*S. aethiopicum*), pepino (*S. muricatum*), lulo (*S. quitoense*), and African nightshades (*S. scabrum* and its relatives). 
 
 ## Solanaceae Infrafamiliar Classification
 * **Cestroideae**

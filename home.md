@@ -9,7 +9,6 @@ height: 60vh
 cta:
   - text: Occurrence Data
     href: /occurrence/search
-    isPrimary: true
   - text: Taxonomy
     href: /taxonomy/browse
   - text: Phylogeny

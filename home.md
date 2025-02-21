@@ -4,7 +4,7 @@ layout: home
 title: Solanaceae Source
 description: A global taxonomic resource for the nightshade family
 background: /assets/images/Solanoideae/Solaneae/Solanum/IMG_0547.jpg
-imageLicense: *Solanum rostratum* Dunal (photo by S.Knapp licensed under CC-BY-NC)
+imageLicense: test
 height: 80vh
 cta:
   - text: Occurrence Data

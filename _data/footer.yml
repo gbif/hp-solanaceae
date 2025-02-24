@@ -5,38 +5,17 @@
 columns:
   - name: Partners
     links:
-    - text: Sandy Knapp
-      href: https://www.nhm.ac.uk/
-    - text: Your name here
-      href: http://example.com
+    - text: This portal is a project of the Solanaceae Taxonomic Expert Network [SolTEN](https://about.worldfloraonline.org/tens/solanaceaesource-org), led by Sandra Knapp and Tiina Sarkinen.
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-  
-  - name: Contact
+      This project is open source. 
+      All files are available on [GitHub](https://github.com/gbif/hp-solanaceae).
+      To leave a comment, report an issue or suggest an improvement, you can [create a new GitHub issue](https://github.com/gbif/hp-solanaceae/issues/new).
+
+   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * [Email Solanaceae Source](mailto:tsarkinen@rbge.org.uk)
     connectIcons: true
 
-  # EXAMPLE
-  #- name: Group name
-  #  description: |
-  #    An optional description. Can be markdown
-  #  links: # optional as well
-  #  - text: link title
-  #    href: http://example.com
-  #  - text: link title 2
-  #    href: http://example2.com
-  #  connectIcons: true # optional - show social icons (defined in _config.yml)
-
-
-# Small print license statement to add at the bottom of the footer. Can be Markdown
-# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
-# Will be postfixed by "Powered by GBIF"
-# (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).

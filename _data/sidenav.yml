@@ -9,19 +9,21 @@ taxonomy:
 - grouptitle: Subfamilies
   content:
   - title: Cestroideae
-    path: /taxonomy/cestroideae
+    path: /taxonomy/Cestroideae
   - title: Duckeodendroideae
-    path: /taxonomy/duckeodendroideae
+    path: /taxonomy/Duckeodendroideae
   - title: Goetzeoideae
-    path: /taxonomy/goetzeoideae
+    path: /taxonomy/Goetzeoideae
   - title: Nicotianoideae
-    path: /taxonomy/nicotianoideae
+    path: /taxonomy/Nicotianoideae
   - title: Petunioideae
-    path: /taxonomy/petunioideae
+    path: /taxonomy/Petunioideae
   - title: Schizanthoideae
-    path: /taxonomy/schizanthoideae
+    path: /taxonomy/Schizanthoideae
   - title: Schwenckioideae
-    path: /taxonomy/schwenckioideae
+    path: /taxonomy/Schwenckioideae
   - title: Solanoideae
-    path: /taxonomy/solanoideae
+    path: /taxonomy/Solanoideae
+  - title: Solanum
+    path: /taxonomy/Solanum
 

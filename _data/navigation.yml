@@ -2,25 +2,45 @@
 
 - text: About
   href: /about
-# - text: Occurrences
-#   href: /occurrence/search
 - text: Data
   menu: 
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Taxonomy
+- text: Occurrences
+  href: /occurrence/search
+- text: Taxonomy
+  href: /taxonomy
+  menu: #Dropdown menu
+  - text: Accepted Species
+    href: /taxonomy/species-list 
+  - text: Browse
+    href: /taxonomy/browse
+  - text: Advanced search
     href: /taxonomy/search
-  - text: Phylogeny
-    href: /phylogeny/explore
-- text: Nightshades
-  menu: # Dropdown menu (one level deep only)
-  - text: Diversity
-    href: /diversity
-  - text: Distribution
-    href: /distribution
-  - text: Genomics
-    href: /genomics
-  - text: Uses
-    href: /uses
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Cestroideae
+    href: /taxonomy/Cestroideae
+  - text: Duckeodendroideae
+    href: /taxonomy/Duckeodendroideae
+  - text: Goetzeoideae
+    href: /taxonomy/Goetzeoideae
+  - text: Nicotianoideae
+    href: /taxonomy/Nicotianoideae
+  - text: Petunioideae
+    href: /taxonomy/Petunioideae
+  - text: Schizanthoideae
+    href: /taxonomy/Schizanthoideae
+  - text: Schwenckioideae
+    href: /taxonomy/Schwenckioideae
+  - text: Solanoideae
+    href: /taxonomy/Solanoideae
+  - text: Solanum
+    href: /taxonomy/Solanum
+- text: Phylogeny
+  href: /phylogeny/explore
+- text: Diversity
+  href: /diversity
+- text: Genomics
+  href: /genomics
+- text: Uses
+  href: /uses
 - text: News
   href: /news/

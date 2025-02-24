@@ -10,18 +10,18 @@
 # background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
 # imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
 
-#datura:
-#  src: /assets/images/placeholders/datura_4014889973.jpeg
-#  caption: |
-#    [Datura stramonium L.](https://www.gbif.org/occurrence/4014889973) observed in Spain by Alba (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))
-#solanum:
-#  src: /assets/images/placeholders/IMG_4060_1686928512_lg.jpg
-#  caption: |
-#    [Preserved specimen of _Solanum elaeagnifolium_ Cav.](https://www.gbif.org/occurrence/4154096422) from University of California, Irvine Herbarium (IRVC). (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))
-#nolana:
-#  src: /assets/images/placeholders/09a74560d26a13ba012522e13d7fba35.jpg
-#  caption: |
-#    [Preserved specimen of _Nolana mollis_ (Phil.) I.M.Johnst.](https://www.gbif.org/occurrence/575080212) Royal Botanic Garden Edinburgh. (licensed under http://creativecommons.org/publicdomain/zero/1.0/)
+datura:
+  src: /assets/images/placeholders/Solanum_rostratum_IMG_0547_ready.jpg
+  caption: |
+    *Solanum rostratum* Dunal (licensed under CC-BY-NC)
+solanum:
+  src: /assets/images/placeholders/Solanum_Androceras_IMG_0544.jpg
+  caption: |
+   *Solanum* (Androceras clade; licensed under CC-BY-NC)
+nolana:
+  src: /assets/images/placeholders/Solanum_wendlandii_Hilgenhof_cult_Kew.jpg
+  caption: |
+    *Solanum wendlandii* Hook.f. (licensed under CC-BY-NC)
 #acalypha_gillespieae:
 #  src: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
 #  caption: |

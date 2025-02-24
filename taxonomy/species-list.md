@@ -6,9 +6,9 @@ composition:
   - type: pageMarkdown
 lang-ref: species-list
 lang: en
-title: Accepted Species List and Synonyms
-background: /assets/images/Solanoideae/Solaneae/Solanum/IMG_0544.jpg
-imageLicense: *Solanum* (photo by Sandra Knapp licensed under CC-BY-NC)
+title: Accepted Species
+background:  "{{ site.data.images.datura.src }}"
+imageLicense: "{{ site.data.images.datura.caption }}"
 description: List Solanaceae species
 height: 70vh
 ---
@@ -25,8 +25,8 @@ Below is an alphabetical list of all genera, with the subfamily designation, as 
 
 The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
 
-|  Genus  |  Subfamily | Data Source  |
-|----------------------|------------------------|---------------------------|------------------------|------------------------| 
-| Abarema Pittier| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/2609286)| [GBIF](https://www.gbif.org/species/2977807)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30032383-2)|
-| Abrus Adans.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/2610294)| [GBIF](https://www.gbif.org/species/2943776)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21549-1)|
-| Acacia Mill.| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/2611079)| [GBIF](https://www.gbif.org/species/2978223)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325783-2)|
+# |  Genus  |  Subfamily | Data Source  |
+# |----------------------|------------------------|---------------------------|------------------------|------------------------| 
+# | Abarema Pittier| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/2609286)| [GBIF](https://www.gbif.org/species/2977807)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30032383-2)|
+# | Abrus Adans.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/2610294)| [GBIF](https://www.gbif.org/species/2943776)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21549-1)|
+# | Acacia Mill.| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/2611079)| [GBIF](https://www.gbif.org/species/2978223)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325783-2)|

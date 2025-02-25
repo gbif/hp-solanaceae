@@ -1,6 +1,6 @@
 taxonomy:
 - content:
-  - title: Accepted Species List and Synonyms
+  - title: Accepted Species
     path: /taxonomy/species-list
   - title: Browse
     path: /taxonomy/browse

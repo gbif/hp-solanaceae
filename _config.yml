@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Solanaceae Source# the title of your site should go here
+title: Solanaceae Source # the title of your site should go here
 email: tsarkinen@rbge.org.uk
 description: A global taxonomic resource for the nightshade family
 baseurl: "" # the subpath of your site, e.g. /blog

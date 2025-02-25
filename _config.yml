@@ -81,10 +81,8 @@ algae:
 col:
   gbifDatasetKey: f382f0ce-323a-4091-bb9f-add557f3a9a2
   version: "latest" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
-  catalogueKey: "2232" 
-  defaultTaxonKey: "xG2"
-  #catalogueKey: "2232" entire WCVP dataset
-  #defaultTaxonKey: "x4VX" # This value have been observed to change over time, this value goes with catalogueKey = 2232
+  catalogueKey: "2232" # entire WCVP dataset
+  defaultTaxonKey: "xBJ" # This value have been observed to change over time, this value goes with catalogueKey = 2232
 
 exclude:
 #  - .sass-cache/

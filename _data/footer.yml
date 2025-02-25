@@ -4,8 +4,8 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Partners
-    links:
-    - text: This portal is a project of the Solanaceae Taxonomic Expert Network [SolTEN](https://about.worldfloraonline.org/tens/solanaceaesource-org), led by Sandra Knapp and Tiina Sarkinen.
+    description: |
+    This portal is a project of the Solanaceae Taxonomic Expert Network [SolTEN](https://about.worldfloraonline.org/tens/solanaceaesource-org), led by Sandra Knapp and Tiina Sarkinen.
 
   - name: Code
     description: | # Can be Markdown

@@ -8,10 +8,10 @@ composition:
   - type: pageMarkdown
 title: Goetzeoideae
 lang-ref: Goetzeoideae
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: /assets/images/Goetzoideae/Goetzea elegans FairchildIMG_1458.JPG
 imageLicense: |
-  *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Goetzeoideae
+  *Goetzea elegans* Wydler (photo by S.Knapp)
+description: Information about subfamily Goetzeoideae
 height: 70vh
 toc: true
 ---

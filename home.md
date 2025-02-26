@@ -6,7 +6,8 @@ description: A global taxonomic resource for the nightshade family
 background:  "{{ site.data.images.datura.src }}"
 imageLicense: "{{ site.data.images.datura.caption }}"
 # background: /assets/images/Solanum_rostratum_IMG_0547.jpg
-# imageLicense: *Solanum rostratum* Dunal (photo by S.Knapp licensed under CC-BY-NC)
+# imageLicense: |
+*Solanum rostratum* Dunal (photo by S.Knapp licensed under CC-BY-NC)
 height: 80vh
 cta:
   - text: Occurrence Data

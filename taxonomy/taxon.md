@@ -29,7 +29,7 @@ class Taxon extends React.Component {
           pathToSearch: '/taxonomy/search',
           pathToTaxon: '/taxonomy/taxon/',
           pathToDataset: '/sourcedatasets/',
-          pageTitleTemplate: 'Legume | __taxon__',
+          pageTitleTemplate: 'Solanaceae | __taxon__',
           citation: 'top'
         }
       );

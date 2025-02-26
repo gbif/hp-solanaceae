@@ -10,24 +10,27 @@
 # background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
 # imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
 
-datura:
-  src: /assets/images/placeholders/Solanum_rostratum_IMG_0547_ready.jpg
-  caption: |
-    *Solanum rostratum* Dunal (licensed under CC-BY-NC)
 solanum:
+  src: /assets/images/Solanum_wendlandii_Hilgenhof_cult_Kew.jpg
+  caption: |
+    *Solanum wendlandii* Hook.f. (photo by R.Hilgenhof, licensed under CC-BY-NC)
+solanum2:
+  src: /assets/images/Solanum_rostratum_IMG_0547.jpg
+  caption: |
+    *Solanum rostratum* Dunal (photo by S.Knapp, licensed under CC-BY-NC)
+solanum1:
   src: /assets/images/placeholders/Solanum_Androceras_IMG_0544.jpg
   caption: |
-   *Solanum* (Androceras clade; licensed under CC-BY-NC)
-nolana:
-  src: /assets/images/placeholders/Solanum_wendlandii_Hilgenhof_cult_Kew.jpg
+    *Solanum* (Androceras clade; photo by L.Bohs, licensed under CC-BY-NC)
+wildpotato:
+  src: /assets/images/placeholders/Knapp_10232_DSC_8307.JPG
   caption: |
-    *Solanum wendlandii* Hook.f. (licensed under CC-BY-NC)
-#acalypha_gillespieae:
-#  src: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
-#  caption: |
-#    [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
-#catocala_ilia_cramer:
-#  src: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
-#  caption: |
-#    [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](institution/75f50140-830d-4630-a290-3d6e951a7c29)
-
+    *Solanum acaule* Bitter (photo by S.Knapp, licensed under CC-BY-NC)
+datura:
+  src: /assets/images/placeholders/datura_4014889973.jpeg
+  caption: |
+    *Datura metel* L. (photo by S.Knapp, licensed under CC-BY-NC)
+nolana:
+  src: /assets/images/Nolana/N. carnosa_ J.Hepp_DSC_0200.JPG
+  caption: |
+    *Nolana carnosa* (Lindl.) Miers ex Dunal (licensed under CC-BY-NC)

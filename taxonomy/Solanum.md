@@ -6,10 +6,10 @@ composition:
   - type: pageMarkdown
 title: Solanum
 lang-ref: Solanum
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: /assets/images/Solanoideae/Solaneae/Solanum/Solanum_Bohs_3655_IMG_2051.jpg
 imageLicense: |
-  *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Solanum
+  *Solanum* sp. (Androceras group; Photo by L.Bohs)
+description: Information about *Solanum*
 height: 70vh
 toc: true
 ---

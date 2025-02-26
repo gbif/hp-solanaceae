@@ -9,10 +9,10 @@ composition:
   - type: pageMarkdown
 title: Nicotianoideae
 lang-ref: Nicotianoideae
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: /assets/images/Nicotianoideae/Anthocercideae/Anthoceris/Anthocercis viscosa AlbanyDSC01913.JPG
 imageLicense: |
-  *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Nicotianoideae
+  *Anthocercis viscosa* R.Br. (photo by S.Knapp)
+description: Information about subfamily Nicotianoideae
 height: 70vh
 toc: true
 ---

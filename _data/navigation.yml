@@ -30,8 +30,8 @@
     href: /taxonomy/Schwenckioideae
   - text: Solanoideae
     href: /taxonomy/Solanoideae
-  - text: Solanum
-    href: /taxonomy/Solanum
+    - text: Solanum
+      href: /taxonomy/Solanum
 - text: Phylogeny
   href: /phylogeny/explore
 - text: Diversity

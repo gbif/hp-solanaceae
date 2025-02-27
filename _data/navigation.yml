@@ -30,8 +30,27 @@
     href: /taxonomy/Schwenckioideae
   - text: Solanoideae
     href: /taxonomy/Solanoideae
-    - text: Solanum
-      href: /taxonomy/Solanum
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Capsiceae
+    href: /taxonomy/Capsiceae
+  - text: Datureae
+    href: /taxonomy/Datureae
+  - text: Hyoscyameae
+    href: /taxonomy/Hyoscyameae
+  - text: Jaboroseae
+    href: /taxonomy/Jaboroseae
+  - text: Lycieae
+    href: /taxonomy/Lycieae
+  - text: Mandragoreae
+    href: /taxonomy/Mandragoreae
+  - text: Physalideae
+    href: /taxonomy/Physalideae
+  - text: Salpichroeae
+    href: /taxonomy/Salpichroeae
+  - text: Solandreae
+    href: /taxonomy/Solandreae
+  - text: Solanum and Solaneae
+    href: /taxonomy/Solanum
 - text: Phylogeny
   href: /phylogeny/explore
 - text: Diversity

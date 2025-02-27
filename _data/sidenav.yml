@@ -1,6 +1,6 @@
 taxonomy:
 - content:
-  - title: Accepted Species List and Synonyms
+  - title: Accepted Species
     path: /taxonomy/species-list
   - title: Browse
     path: /taxonomy/browse
@@ -24,6 +24,14 @@ taxonomy:
     path: /taxonomy/Schwenckioideae
   - title: Solanoideae
     path: /taxonomy/Solanoideae
+- grouptitle: Tribes
+  content:
+  - title: Physalideae
+    path: /taxonomy/Physalideae
+- grouptitle: Important genera
+  content:
   - title: Solanum
     path: /taxonomy/Solanum
+  - title: Capsicum
+    path: /taxonomy/Capsicum
 

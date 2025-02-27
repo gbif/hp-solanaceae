@@ -14,8 +14,7 @@ columns:
       To leave a comment, report an issue or suggest an improvement, you can [create a new GitHub issue](https://github.com/gbif/hp-solanaceae/issues/new).
 
   - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+    description: | # Can be Markdown, Social icons links defined in `_config.yml`
       * [Email Solanaceae Source](mailto:tsarkinen@rbge.org.uk)
     connectIcons: true
 

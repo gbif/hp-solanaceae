@@ -2,8 +2,6 @@
 
 - text: About
   href: /about
-- text: Data
-  menu: 
 - text: Occurrences
   href: /occurrence/search
 - text: Taxonomy

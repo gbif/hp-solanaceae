@@ -30,8 +30,8 @@ taxonomy:
     path: /taxonomy/Physalideae
 - grouptitle: Important genera
   content:
-  - title: Solanum
+  - title: *Solanum*
     path: /taxonomy/Solanum
-  - title: Capsicum
+  - title: *Capsicum*
     path: /taxonomy/Capsicum
 

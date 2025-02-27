@@ -49,7 +49,12 @@
     href: /taxonomy/Salpichroeae
   - text: Solandreae
     href: /taxonomy/Solandreae
-  - text: Solanum and Solaneae
+  - text: Solaneae
+    href: /taxonomy/Solaneae
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Capsicum
+    href: /taxonomy/Capsicum
+  - text: Solanum
     href: /taxonomy/Solanum
 - text: Phylogeny
   href: /phylogeny/explore

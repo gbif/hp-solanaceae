@@ -30,7 +30,8 @@
     href: /taxonomy/Schwenckioideae
   - text: Solanoideae
     href: /taxonomy/Solanoideae
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - grouptitle: Tribes
+    content:
   - text: Capsiceae
     href: /taxonomy/Capsiceae
   - text: Datureae

@@ -6,32 +6,31 @@ taxonomy:
     path: /taxonomy/browse
   - title: Advanced search
     path: /taxonomy/search
-- grouptitle: Subfamilies
-  content:
-  - title: Cestroideae
-    path: /taxonomy/Cestroideae
-  - title: Duckeodendroideae
-    path: /taxonomy/Duckeodendroideae
-  - title: Goetzeoideae
-    path: /taxonomy/Goetzeoideae
-  - title: Nicotianoideae
-    path: /taxonomy/Nicotianoideae
-  - title: Petunioideae
-    path: /taxonomy/Petunioideae
-  - title: Schizanthoideae
-    path: /taxonomy/Schizanthoideae
-  - title: Schwenckioideae
-    path: /taxonomy/Schwenckioideae
-  - title: Solanoideae
-    path: /taxonomy/Solanoideae
-- grouptitle: Tribes
-  content:
-  - title: Physalideae
-    path: /taxonomy/Physalideae
 - grouptitle: Important genera
   content:
-  - title: Solanum
-    path: /taxonomy/Solanum
   - title: Capsicum
     path: /taxonomy/Capsicum
+  - title: Physalis
+    path: /taxonomy/Physalis
+  - title: Solanum
+    path: /taxonomy/Solanum
+- grouptitle: Other genera
+  content:
+  - title: Browallia
+    path: /taxonomy/Browallia
+  - title: Duckeodendron
+    path: /taxonomy/Duckeodendron
+  - title: Goetzea
+    path: /taxonomy/Goetzea
+  - title: Nicotiana
+    path: /taxonomy/Nicotiana
+  - title: Petunia
+    path: /taxonomy/Petunia
+  - title: Schizanthus
+    path: /taxonomy/Schizanthus
+  - title: Schwenckia
+    path: /taxonomy/Schwenckia
+  - title: Solandra
+    path: /taxonomy/Solandra
+
 

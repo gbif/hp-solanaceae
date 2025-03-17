@@ -7,12 +7,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Nicotianoideae
-lang-ref: Nicotianoideae
+title: Nicotiana
+lang-ref: Nicotiana
 background: /assets/images/Nicotianoideae/Anthocercideae/Anthoceris/Anthocercis viscosa AlbanyDSC01913.JPG
 imageLicense: |
   *Anthocercis viscosa* R.Br. (photo by S.Knapp)
-description: Information about subfamily Nicotianoideae
+description: Information about Nicotiana
 height: 70vh
 toc: true
 ---

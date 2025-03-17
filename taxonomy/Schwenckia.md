@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ---
 layout: documentation
 sideNavigation: sidenav.taxonomy
@@ -12,9 +6,9 @@ composition:
   - type: pageMarkdown
 title: Schwenckia
 lang-ref: Schwenckia
-background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
+background: /assets/images/Solanoideae/Solaneae/Solanum/Solanum_Bohs_3655_IMG_2051.jpg
 imageLicense: |
-  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
+  *Solanum* sp. (Androceras group; Photo by L.Bohs)
 description: Information about *Schwenckia*
 height: 70vh
 toc: true
@@ -78,4 +72,3 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Storckiella Seem. |[Legume Data Portal](/taxonomy/taxon/2478158)|  [GBIF](https://www.gbif.org/species/2949438)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1) |
 | Uittienia Steenis |[Legume Data Portal](/taxonomy/taxon/2446612)|  [GBIF](https://www.gbif.org/species/8351407)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1) |
 | Zenia Chun  |[Legume Data Portal](/taxonomy/taxon/2470192)|  [GBIF](https://www.gbif.org/species/2963590)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1) |
-

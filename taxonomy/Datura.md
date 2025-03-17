@@ -4,11 +4,11 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Datureae
-lang-ref: Datureae
+title: Datura
+lang-ref: Datura
 background:  "{{ site.data.images.datura.src }}"
 imageLicense: "{{ site.data.images.datura.caption }}"
-description: Information about tribe Datureae
+description: Information about *Datura*
 height: 70vh
 toc: true
 ---

@@ -11,10 +11,10 @@ composition:
   - type: pageMarkdown
 title: Schizanthus
 lang-ref: Schizanthus
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: /assets/images/Schizanthoideae/Schizanthus pinnatus DSC00403-1200.tif
 imageLicense: |
-  *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Schizanthoideae
+  *Schizanthus pinnatus* Ruiz & Pav. (photo by S.Knapp)
+description: Information about *Schizanthus*
 height: 70vh
 toc: true
 ---

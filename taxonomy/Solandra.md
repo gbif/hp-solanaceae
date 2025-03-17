@@ -4,12 +4,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Solandreae
-lang-ref: Solandreae
+title: Solandra
+lang-ref: Solandra
 background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
   *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about tribe Solandreae
+description: Information about *Solandra* and related genera
 height: 70vh
 toc: true
 ---

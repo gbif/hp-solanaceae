@@ -1,7 +1,3 @@
-
-
-
-
 ---
 layout: documentation
 sideNavigation: sidenav.taxonomy
@@ -10,10 +6,10 @@ composition:
   - type: pageMarkdown
 title: Petunia
 lang-ref: Petunia
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
-  *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Petunioideae
+  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
+description: Information about *Petunia*
 height: 70vh
 toc: true
 ---
@@ -76,4 +72,3 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Storckiella Seem. |[Legume Data Portal](/taxonomy/taxon/2478158)|  [GBIF](https://www.gbif.org/species/2949438)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1) |
 | Uittienia Steenis |[Legume Data Portal](/taxonomy/taxon/2446612)|  [GBIF](https://www.gbif.org/species/8351407)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1) |
 | Zenia Chun  |[Legume Data Portal](/taxonomy/taxon/2470192)|  [GBIF](https://www.gbif.org/species/2963590)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1) |
-

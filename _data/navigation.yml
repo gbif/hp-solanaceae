@@ -23,20 +23,44 @@
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Browallia
     href: /taxonomy/Browallia
+  - text: Anthocercis & related genera
+    href: /taxonomy/Anthocercis
+  - text: Datura
+    href: /taxonomy/Datura
   - text: Duckeodendron
     href: /taxonomy/Duckeodendron
   - text: Goetzea
     href: /taxonomy/Goetzea
+  - text: Hyoscyamus & related genera
+    href: /taxonomy/Hyoscyamus
+  - text: Jaborosa
+    href: /taxonomy/Jaborosa
+  - text: Jaltomata
+    href: /taxonomy/Jaltomata
+  - text: Latua
+    href: /taxonomy/Latua
+  - text: Lycianthes
+    href: /taxonomy/Lycianthes
+  - text: Lycium
+    href: /taxonomy/Lycium  
+  - text: Mandragora
+    href: /taxonomy/Mandragora
   - text: Nicotiana
     href: /taxonomy/Nicotiana
+  - text: Nolana
+    href: /taxonomy/Nolana
   - text: Petunia
     href: /taxonomy/Petunia
+  - text: Salpichroa & Nectouxia
+    href: /taxonomy/Salpichroa
   - text: Schizanthus
     href: /taxonomy/Schizanthus
   - text: Schwenckia
     href: /taxonomy/Schwenckia
   - text: Solandra
     href: /taxonomy/Solandra
+  - text: Witheringia
+    href: /taxonomy/Witheringia
 - text: Phylogeny
   href: /phylogeny/explore
 - text: Diversity

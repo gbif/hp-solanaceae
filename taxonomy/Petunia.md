@@ -8,8 +8,8 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Petunioideae
-lang-ref: Petunioideae
+title: Petunia
+lang-ref: Petunia
 background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
 imageLicense: |
   *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)

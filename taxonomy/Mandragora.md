@@ -4,12 +4,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Mandragoreae
-lang-ref: Mandragoreae
+title: Mandragora
+lang-ref: Mandragora
 background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
   *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about tribe Mandragoreae
+description: Information about *Mandragora*
 height: 70vh
 toc: true
 ---

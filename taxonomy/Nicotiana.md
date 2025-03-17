@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: documentation
 sideNavigation: sidenav.taxonomy
@@ -9,10 +6,10 @@ composition:
   - type: pageMarkdown
 title: Nicotiana
 lang-ref: Nicotiana
-background: /assets/images/Nicotianoideae/Anthocercideae/Anthoceris/Anthocercis viscosa AlbanyDSC01913.JPG
+background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
-  *Anthocercis viscosa* R.Br. (photo by S.Knapp)
-description: Information about Nicotiana
+  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
+description: Information about *Nicotiana*
 height: 70vh
 toc: true
 ---

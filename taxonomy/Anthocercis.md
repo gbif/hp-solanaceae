@@ -9,7 +9,7 @@ lang-ref: Anthocercis
 background: /assets/images/Nicotianoideae/Anthocercideae/Anthoceris/Anthocercis viscosa AlbanyDSC01913.JPG
 imageLicense: |
   *Anthocercis viscosa* R.Br. (photo by S.Knapp)
-description: Information about Anthocercis and related genera
+description: Information about *Anthocercis* and related genera
 height: 70vh
 toc: true
 ---

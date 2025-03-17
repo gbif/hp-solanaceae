@@ -6,9 +6,9 @@ composition:
   - type: pageMarkdown
 title: Witheringia
 lang-ref: Witheringia
-background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
+background: /assets/images/Physalideae/BM1233_Solanaceae (3).JPG
 imageLicense: |
-  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
+  *Witheringia solanacea* L'Hér. (photo by B.Melchor-Castro)
 description: Information about *Witheringia*
 height: 70vh
 toc: true

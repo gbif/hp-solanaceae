@@ -4,12 +4,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Hyoscyameae
-lang-ref: Hyoscyameae
+title: Hyoscyamus
+lang-ref: Hyoscyamus
 background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
   *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about tribe Hyoscyameae
+description: Information about *Hyoscyamus* and related genera
 height: 70vh
 toc: true
 ---

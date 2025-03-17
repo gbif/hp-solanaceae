@@ -7,10 +7,10 @@ composition:
   - type: pageMarkdown
 title: Duckeodendron
 lang-ref: Duckeodendron
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
-  *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
-description: Information about Duckeodendroideae
+  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
+description: Information about *Duckeodendron*
 height: 70vh
 toc: true
 ---

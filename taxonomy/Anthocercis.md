@@ -4,12 +4,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Anthocercideae
-lang-ref: Anthocercideae
+title: Anthocercis
+lang-ref: Anthocercis
 background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
   *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about tribe Anthocercideae
+description: Information about Anthocercis and related genera
 height: 70vh
 toc: true
 ---

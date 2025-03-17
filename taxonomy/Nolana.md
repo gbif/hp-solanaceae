@@ -4,12 +4,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Solaneae
-lang-ref: Solaneae
-background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
+title: Nolana
+lang-ref: Nolana
+background: /assets/images/Nolana/N. carnosa_ J.Hepp_DSC_0200.JPG
 imageLicense: |
-  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about tribe Solaneae
+  *Nolana carnosa* (Lindl.) Miers ex Dunal (photo by J.Hepp)
+description: Information about *Nolana*
 height: 70vh
 toc: true
 ---

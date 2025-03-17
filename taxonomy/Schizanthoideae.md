@@ -9,8 +9,8 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Schizanthoideae
-lang-ref: Schizanthoideae
+title: Schizanthus
+lang-ref: Schizanthus
 background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
 imageLicense: |
   *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)

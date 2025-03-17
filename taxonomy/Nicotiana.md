@@ -6,9 +6,9 @@ composition:
   - type: pageMarkdown
 title: Nicotiana
 lang-ref: Nicotiana
-background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
+background: /assets/images/Nicotianoideae/Nicotianeae/Nicotiana maritima MWC16118 YorkePenIMG_4472.JPG
 imageLicense: |
-  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
+  *Nicotiana maritima* H.-M.Wheeler (photo by M.Christenhusz)
 description: Information about *Nicotiana*
 height: 70vh
 toc: true

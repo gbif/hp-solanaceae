@@ -9,7 +9,7 @@ lang-ref: Browallia
 background: /assets/images/Cestroideae/Browallieae/Sarkinen_4673_Browallia_pallascana_DSC_0203.JPG
 imageLicense: |
   *Browallia pallascana* S.Leiva, J.Jara & Tantalean (photo by T.Särkinen)
-description: Information about subfamily Cestroideae
+description: Information about Browallia
 height: 70vh
 toc: true
 ---

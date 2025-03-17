@@ -11,7 +11,7 @@ lang-ref: Goetzea
 background: /assets/images/Goetzoideae/Goetzea elegans FairchildIMG_1458.JPG
 imageLicense: |
   *Goetzea elegans* Wydler (photo by S.Knapp)
-description: Information about subfamily Goetzeoideae
+description: Information about subfamily *Goetzea*
 height: 70vh
 toc: true
 ---

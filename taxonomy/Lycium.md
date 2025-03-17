@@ -4,12 +4,12 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Lycieae
-lang-ref: Lycieae
+title: Lycium
+lang-ref: Lycium
 background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
 imageLicense: |
   *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about tribe Lycieae
+description: Information about *Lycium*
 height: 70vh
 toc: true
 ---

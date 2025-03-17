@@ -2,7 +2,7 @@
 
 - text: About
   href: /about
-- text: Occurrences
+- text: Occurrence Data
   href: /occurrence/search
 - text: Taxonomy
   href: /taxonomy
@@ -14,52 +14,35 @@
   - text: Advanced search
     href: /taxonomy/search
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: Cestroideae
-    href: /taxonomy/Cestroideae
-  - text: Duckeodendroideae
-    href: /taxonomy/Duckeodendroideae
-  - text: Goetzeoideae
-    href: /taxonomy/Goetzeoideae
-  - text: Nicotianoideae
-    href: /taxonomy/Nicotianoideae
-  - text: Petunioideae
-    href: /taxonomy/Petunioideae
-  - text: Schizanthoideae
-    href: /taxonomy/Schizanthoideae
-  - text: Schwenckioideae
-    href: /taxonomy/Schwenckioideae
-  - text: Solanoideae
-    href: /taxonomy/Solanoideae
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: Capsiceae
-    href: /taxonomy/Capsiceae
-  - text: Datureae
-    href: /taxonomy/Datureae
-  - text: Hyoscyameae
-    href: /taxonomy/Hyoscyameae
-  - text: Jaboroseae
-    href: /taxonomy/Jaboroseae
-  - text: Lycieae
-    href: /taxonomy/Lycieae
-  - text: Mandragoreae
-    href: /taxonomy/Mandragoreae
-  - text: Physalideae
-    href: /taxonomy/Physalideae
-  - text: Salpichroeae
-    href: /taxonomy/Salpichroeae
-  - text: Solandreae
-    href: /taxonomy/Solandreae
-  - text: Solaneae
-    href: /taxonomy/Solaneae
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Capsicum
     href: /taxonomy/Capsicum
+  - text: Physalis
+    href: /taxonomy/Physalis
   - text: Solanum
     href: /taxonomy/Solanum
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Browallia
+    href: /taxonomy/Browallia
+  - text: Duckeodendron
+    href: /taxonomy/Duckeodendron
+  - text: Goetzea
+    href: /taxonomy/Goetzea
+  - text: Nicotiana
+    href: /taxonomy/Nicotiana
+  - text: Petunia
+    href: /taxonomy/Petunia
+  - text: Schizanthus
+    href: /taxonomy/Schizanthus
+  - text: Schwenckia
+    href: /taxonomy/Schwenckia
+  - text: Solandra
+    href: /taxonomy/Solandra
 - text: Phylogeny
   href: /phylogeny/explore
 - text: Diversity
   href: /diversity
+- text: Identification
+  href: /identification
 - text: Genomics
   href: /genomics
 - text: Uses

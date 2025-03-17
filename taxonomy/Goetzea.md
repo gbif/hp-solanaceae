@@ -6,8 +6,8 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Goetzeoideae
-lang-ref: Goetzeoideae
+title: Goetzea
+lang-ref: Goetzea
 background: /assets/images/Goetzoideae/Goetzea elegans FairchildIMG_1458.JPG
 imageLicense: |
   *Goetzea elegans* Wydler (photo by S.Knapp)

@@ -15,22 +15,46 @@ taxonomy:
   - title: Solanum
     path: /taxonomy/Solanum
 - grouptitle: Other genera
-  content:
+  content:  
+  - title: Anthocercis & related genera
+    path: /taxonomy/Anthocercis
   - title: Browallia
     path: /taxonomy/Browallia
+  - title: Datura
+    path: /taxonomy/Datura
   - title: Duckeodendron
     path: /taxonomy/Duckeodendron
   - title: Goetzea
     path: /taxonomy/Goetzea
+  - title: Hyoscyamus & related genera
+    path: /taxonomy/Hyoscyamus
+  - title: Jaborosa
+    path: /taxonomy/Jaborosa
+  - title: Jaltomata
+    path: /taxonomy/Jaltomata
+  - title: Latua
+    path: /taxonomy/Latua
+  - title: Lycianthes
+    path: /taxonomy/Lycianthes
+  - title: Lycium
+    path: /taxonomy/Lycium
+  - title: Mandragora
+    path: /taxonomy/Mandragora
   - title: Nicotiana
     path: /taxonomy/Nicotiana
+  - title: Nolana
+    path: /taxonomy/Nolana
   - title: Petunia
     path: /taxonomy/Petunia
+  - title: Salpichroa & Nectouxia
+    path: /taxonomy/Salpichroa
   - title: Schizanthus
     path: /taxonomy/Schizanthus
   - title: Schwenckia
     path: /taxonomy/Schwenckia
   - title: Solandra
     path: /taxonomy/Solandra
+  - title: Witheringia
+    path: /taxonomy/Witheringia
 
 

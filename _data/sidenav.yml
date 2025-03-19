@@ -6,7 +6,7 @@ taxonomy:
     path: /taxonomy/browse
   - title: Advanced search
     path: /taxonomy/search
-- grouptitle: Important genera
+- grouptitle: Crop genera
   content:
   - title: Capsicum
     path: /taxonomy/Capsicum

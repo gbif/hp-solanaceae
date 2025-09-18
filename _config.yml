@@ -81,7 +81,7 @@ col:
   gbifDatasetKey: f382f0ce-323a-4091-bb9f-add557f3a9a2
   version: "latest" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
   catalogueKey: "2004" # entire WCVP dataset
-  defaultTaxonKey: "wfo-7000000654-2024-12" # This value have been observed to change over time, this value goes with catalogueKey = 2232
+  defaultTaxonKey: "wfo-7000000654-2025-06" # This value have been observed to change over time, this value goes with catalogueKey = 2232
 
 exclude:
 #  - .sass-cache/

@@ -21,17 +21,19 @@
   - text: Solanum
     href: /taxonomy/Solanum
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: Browallia & Streptosolen
-    href: /taxonomy/Browallia
   - text: Anthocercis & related genera
     href: /taxonomy/Anthocercis
+  - text: Atropa & Anisodus
+    href: /taxonomy/Atropa
+  - text: Browallia & Streptosolen
+    href: /taxonomy/Browallia
   - text: Datura
     href: /taxonomy/Datura
   - text: Duckeodendron
     href: /taxonomy/Duckeodendron
   - text: Goetzea & Henoonia
     href: /taxonomy/Goetzea
-  - text: Hyoscyamus & related genera
+  - text: Hyoscyamus, Scopolia & Atropanthe
     href: /taxonomy/Hyoscyamus
   - text: Iochroma, Saracha & related genera
     href: /taxonomy/Iochroma

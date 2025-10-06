@@ -18,6 +18,8 @@ taxonomy:
   content:  
   - title: Anthocercis & related genera
     path: /taxonomy/Anthocercis
+  - title: Atropa & Anisodus
+    path: /taxonomy/Atropa
   - title: Browallia & Streptosolen
     path: /taxonomy/Browallia
   - title: Datura
@@ -26,7 +28,7 @@ taxonomy:
     path: /taxonomy/Duckeodendron
   - title: Goetzea & Henoonia
     path: /taxonomy/Goetzea
-  - title: Hyoscyamus & related genera
+  - title: Hyoscyamus, Scopolia & Atropanthe
     path: /taxonomy/Hyoscyamus
   - title: Iochroma, Saracha & related genera
     path: /taxonomy/Iochroma   

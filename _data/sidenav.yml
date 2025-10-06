@@ -1,6 +1,6 @@
 taxonomy:
 - content:
-  - title: Accepted Species
+  - title: Accepted Genera & Species
     path: /taxonomy/species-list
   - title: Browse
     path: /taxonomy/browse
@@ -10,7 +10,7 @@ taxonomy:
   content:
   - title: Capsicum
     path: /taxonomy/Capsicum
-  - title: Physalis
+  - title: Physalis & related genera
     path: /taxonomy/Physalis
   - title: Solanum
     path: /taxonomy/Solanum

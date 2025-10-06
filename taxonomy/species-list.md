@@ -28,5 +28,5 @@ The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Se
 # |  Genus  |  Subfamily & Tribe | Data Source  |
 # |----------------------|------------------------|---------------------------|------------------------|------------------------| 
 # | Alkekengi Mill. | [Solanoideae, Physalideae](/taxonomy/Physalis)| [SolanaceaeSource](/taxonomy/taxon/wfo-4000001218-2025-06)| [GBIF](https://www.gbif.org/species/7299176)|
-# | Anisodus Link & Otto | [Solanoideae, Hyoscyameae](/taxonomy/Hyoscyamus)| [SolanaceaeSource](/taxonomy/taxon/wfo-4000002178-2025-06)| [GBIF](https://www.gbif.org/species/7299128)|
+# | Anisodus Link & Otto | [Solanoideae, Hyoscyameae](/taxonomy/Atropa)| [SolanaceaeSource](/taxonomy/taxon/wfo-4000002178-2025-06)| [GBIF](https://www.gbif.org/species/7299128)|
 # | Anthocercis Labill. | [Nicotianoideae, Anthocercideae](/taxonomy/Anthocercis)| [SolanaceaeSource](/taxonomy/taxon/wfo-4000002429-2025-06)| [GBIF](https://www.gbif.org/species/7300146)|

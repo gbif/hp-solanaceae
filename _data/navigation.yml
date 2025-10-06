@@ -7,7 +7,7 @@
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
-  - text: Accepted Species
+  - text: Accepted Genera & Species
     href: /taxonomy/species-list 
   - text: Browse
     href: /taxonomy/browse

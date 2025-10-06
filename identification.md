@@ -1,5 +1,5 @@
 ---
-title: Identification
+title: identification
 layout: heroImage
 description: A global taxonomic resource for the nightshade family
 background:  "{{ site.data.images.nolana.src }}"

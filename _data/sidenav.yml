@@ -1,15 +1,21 @@
 taxonomy:
 - content:
-  - title: Accepted Genera & Species
+  - title: Accepted genera & species
     path: /taxonomy/species-list
+  - title: Phylogenetic classification
+    path: /taxonomy/classification
   - title: Browse
     path: /taxonomy/browse
   - title: Advanced search
     path: /taxonomy/search
-- grouptitle: Crop genera
+- grouptitle: Economic genera
   content:
   - title: Capsicum
     path: /taxonomy/Capsicum
+  - title: Nicotiana
+    path: /taxonomy/Nicotiana
+  - title: Petunia & related genera
+    path: /taxonomy/Petunia
   - title: Physalis & related genera
     path: /taxonomy/Physalis
   - title: Solanum
@@ -28,6 +34,8 @@ taxonomy:
     path: /taxonomy/Brunfelsia
   - title: Calibrachoa
     path: /taxonomy/Calibrachoa
+  - title: Capsicum
+    path: /taxonomy/Capsicum
   - title: Datura
     path: /taxonomy/Datura
   - title: Deprea
@@ -58,6 +66,8 @@ taxonomy:
     path: /taxonomy/Nolana
   - title: Petunia
     path: /taxonomy/Petunia
+  - title: Physalis & related genera
+    path: /taxonomy/Physalis
   - title: Salpichroa & Nectouxia
     path: /taxonomy/Salpichroa
   - title: Schizanthus
@@ -66,6 +76,8 @@ taxonomy:
     path: /taxonomy/Schwenckia
   - title: Solandra & other epiphytic genera
     path: /taxonomy/Solandra
+  - title: Solanum
+    path: /taxonomy/Solanum
   - title: Witheringia
     path: /taxonomy/Witheringia
 

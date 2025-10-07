@@ -7,8 +7,10 @@
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
-  - text: Accepted Genera & Species
+  - text: Accepted genera & species
     href: /taxonomy/species-list 
+  - text: Phylogenetic classification
+    href: /taxonomy/classification 
   - text: Browse
     href: /taxonomy/browse
   - text: Advanced search

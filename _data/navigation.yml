@@ -18,6 +18,10 @@
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Capsicum
     href: /taxonomy/Capsicum
+  - text: Nicotiana
+    href: /taxonomy/Nicotiana
+  - text: Petunia
+    href: /taxonomy/Petunia
   - text: Physalis & related genera
     href: /taxonomy/Physalis
   - text: Solanum
@@ -35,6 +39,8 @@
     href: /taxonomy/Brunfelsia
   - text: Calibrachoa
     href: /taxonomy/Calibrachoa
+  - text: Capsicum
+    href: /taxonomy/Capsicum
   - text: Datura
     href: /taxonomy/Datura
   - text: Deprea
@@ -65,6 +71,8 @@
     href: /taxonomy/Nolana
   - text: Petunia
     href: /taxonomy/Petunia
+  - text: Physalis & related genera
+    href: /taxonomy/Physalis
   - text: Salpichroa & Nectouxia
     href: /taxonomy/Salpichroa
   - text: Schizanthus
@@ -73,6 +81,8 @@
     href: /taxonomy/Schwenckia
   - text: Solandra & other epiphytic genera
     href: /taxonomy/Solandra
+  - text: Solanum
+    href: /taxonomy/Solanum
   - text: Witheringia
     href: /taxonomy/Witheringia
 - text: Phylogeny

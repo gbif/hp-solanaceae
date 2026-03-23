@@ -10,10 +10,10 @@ imageLicense: "{{ site.data.images.solanum.caption }}"
 # *Solanum rostratum* Dunal (photo by S.Knapp licensed under CC-BY-NC)
 height: 80vh
 cta:
-  - text: Occurrence Data
-    href: /occurrence/search
   - text: Taxonomy
     href: /taxonomy/species-list
+  - text: Occurrence Data
+    href: /occurrence/search
   - text: Phylogeny
     href: /phylogeny/explore
   - text: About

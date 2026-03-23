@@ -30,11 +30,17 @@ Annual herbs or short-lived perennials (0.2) 0.5-1.2 (2) m high, usually rather 
 
 ## To learn more
 Avery, A.G., Satina, S. & Rietsema, J. (1959) Blakeslee: The genus *Datura*. New York: Ronald Press Co.
+
 Bye, R. & Sosa, V. (2013) Molecular phylogeny of the Jimsonweed genus *Datura* (Solanaceae). Systematic Botany 38: 818-829.
-Hammer et al. (1983)
+
+Hammer, K., Romeike, A. & Tittel, C. (1983) Vorarbeiten zur monographischen Darstellung von wildpflanzensortimenten: *Datura* L., sectiones *Dutra* Bernh, *Ceratocaulis* Bernh. et *Datura*. Die Kulturpflanze 31: 13-75.
+
 Martinez, M., Vargas-Ponce, O., Rodriguez, A., Chiang, F. & Ocegueda S. (2017) Solanaceae family in Mexico. Botanical Sciences 95(1): 131-145. DOI: 10.17129/botsci.658
+
 Purdie, R.W., Symon, D.E. & Haegi, L. (1982) Flora of Australia, vol. 29, Solanaceae. Australian Government Publishing Service, Canberra.
+
 Safford, W.E. (1921) Synopsis of the genus *Datura*. J. Wash. Acad. Sci. 11: 173–189. 
+
 Symon, D.E. & Haegi, L. (1991) *Datura* (Solanaceae) is a New World genus. In Hawkes, Lester, Nee & Estrada. Solanaceae III: 197-210. Royal Botanic Gardens, Kew. 
 
 ## List of species

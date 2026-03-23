@@ -30,7 +30,7 @@ Annual herbs or short-lived perennials (0.2) 0.5-1.2 (2) m high, usually rather 
 
 ## Images
 
-<img src="/assets/images/Datura_Hunziker_plate_clean.tif" alt="Datura from Hunziker (2001)" width="100%">
+<img src="/assets/images/Datura_Hunziker_plate_clean.jpg" alt="Datura from Hunziker (2001) Genera Solanacearum" width="100%">
 
 ## To learn more
 Avery, A.G., Satina, S. & Rietsema, J. (1959) Blakeslee: The genus *Datura*. New York: Ronald Press Co.
@@ -50,21 +50,21 @@ Symon, D.E. & Haegi, L. (1991) *Datura* (Solanaceae) is a New World genus. In Ha
 ## List of species
 Below is an alphabetical list of all accepted species following the Solanaceae TEN WFO taxonomy. Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
 
-|Genus  | Species Descriptions | Occurrence Data |
+|Genus  | Species Description | Occurrence Data |
 | --------------------- |------------------------------|------------------------------|
-| *Datura arenicola* Gentry ex Bye & Luna |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001329805)] | [GBIF](https://www.gbif.org/species/7627442)  | 
-| *Datura ceratocaula* Ortega |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021278)] | [GBIF](https://www.gbif.org/species/7530087)  | 
-| *Datura discolor* Bernh. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021288)] | [GBIF](https://www.gbif.org/species/2928735)  | 
-| *Datura ferox* L. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021301)] | [GBIF](https://www.gbif.org/species/7894250)  | 
-| *Datura innoxia* Mill. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021314)] | [GBIF](https://www.gbif.org/species/2928755)  | 
-| *Datura kymatocarpa* A.S.Barclay |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021319)] | [GBIF](https://www.gbif.org/species/2928750)  | 
-| *Datura lanosa* Bye |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021324)] | [GBIF](https://www.gbif.org/species/3798775)  | 
-| *Datura metel* L. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021339)] | [GBIF](https://www.gbif.org/species/2928747)  | 
-| *Datura pruinosa* Greenm. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021356)] | [GBIF](https://www.gbif.org/species/2928736)  | 
-| *Datura quercifolia* Kunth | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021359)] | [GBIF](https://www.gbif.org/species/2928738)  |
-| *Datura reburra* A.S.Barclay | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021360)] | [GBIF](https://www.gbif.org/species/2928749)  |
-| *Datura stramonium* L.  | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021374)] | [GBIF](https://www.gbif.org/species/2928751)  | 
-| *Datura wrightii* Regel | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021401)] | [GBIF](https://www.gbif.org/species/2928741)  |
-| *Datura leichhardtii* F.Muell. Ex Benth. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327)] | [GBIF](https://www.gbif.org/species/7893055)  | 
+| *Datura arenicola* Gentry ex Bye & Luna |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001329805) | [GBIF](https://www.gbif.org/species/7627442)  | 
+| *Datura ceratocaula* Ortega |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021278) | [GBIF](https://www.gbif.org/species/7530087)  | 
+| *Datura discolor* Bernh. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021288) | [GBIF](https://www.gbif.org/species/2928735)  | 
+| *Datura ferox* L. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021301) | [GBIF](https://www.gbif.org/species/7894250)  | 
+| *Datura innoxia* Mill. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021314) | [GBIF](https://www.gbif.org/species/2928755)  | 
+| *Datura kymatocarpa* A.S.Barclay |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021319) | [GBIF](https://www.gbif.org/species/2928750)  | 
+| *Datura lanosa* Bye |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021324) | [GBIF](https://www.gbif.org/species/3798775)  | 
+| *Datura metel* L. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021339) | [GBIF](https://www.gbif.org/species/2928747)  | 
+| *Datura pruinosa* Greenm. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021356) | [GBIF](https://www.gbif.org/species/2928736)  | 
+| *Datura quercifolia* Kunth | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021359) | [GBIF](https://www.gbif.org/species/2928738)  |
+| *Datura reburra* A.S.Barclay | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021360) | [GBIF](https://www.gbif.org/species/2928749)  |
+| *Datura stramonium* L.  | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021374) | [GBIF](https://www.gbif.org/species/2928751)  | 
+| *Datura wrightii* Regel | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021401) | [GBIF](https://www.gbif.org/species/2928741)  |
+| *Datura leichhardtii* F.Muell. Ex Benth. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
 
 

@@ -26,7 +26,7 @@ Although very important commercially, the family is only a medium-sized one with
 | *Jaltomata*          | <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-4000019473-2025-12&limit=0&rank=species&status=accepted">2.730</span>   |
 
 ## Geographical diversity
-Solanaceae is most diverse in the Americas  in terms of both the number of species and genera. The [interactive map of Solanaceae genera](https://haglad.github.io/Solanaceae_map.github.io/solgenmap_smaller.html) by Haley Gladitsch helps to visualise this geographical diversity gradient. The image below shows the generic diversity of Solanaceae by botanical country as a static view.
+Solanaceae is most diverse in the Americas  in terms of both the number of species and genera. The [**interactive map of Solanaceae genera**](https://haglad.github.io/Solanaceae_map.github.io/solgenmap_smaller.html) by Haley Gladitsch helps to visualise this geographical diversity gradient. The image below shows the generic diversity of Solanaceae by botanical country as a static view.
 <img src="/assets/images/SolanaceaeGenericDiversity.png" alt="Generic diversity of Solanaceae by botanical country, by Haley Gladitsch" width="100%">
 
 ## Morphological diversity

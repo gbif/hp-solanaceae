@@ -18,12 +18,12 @@ Solanaceae is divided into subfamilies, tribes, and subtribes, see Table below. 
 
 ## List of genera
 
-The below table provides the linear order for the family following the infrafamiliar classification of Solanaceae into subfamilies, tribes, and subtribes, as well as the most recent phylogenetic classification of Solanaceae by Deanna et al. (2025).
+The table below provides the list of accepted genera for the family in alphabetic order. The formal subfamily, tribes, and subtribe is also provided for each, as well as the PhyloCode classification of Solanaceae by Deanna et al. (2025).
 
 The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
 
-|  Genus  |  Subfamily & tribe (subtribe) | PhyloCode | Data source  |
-|----------------------|------------------------|---------------------------|---------------------------|------------------------| 
-| *Alkekengi* Mill. | [Solanoideae, Physalideae](/taxonomy/Physalis) | /Physalideae | [SolanaceaeSource](/taxonomy/taxon/wfo-4000001218-2025-06) | [GBIF](https://www.gbif.org/species/7299176) |
-| *Anisodus* Link & Otto | [Solanoideae, Hyoscyameae](/taxonomy/Atropa) | /Hyoschyaminae | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002178-2025-06) | [GBIF](https://www.gbif.org/species/7299128) |
-| *Anthocercis* Labill. | [Nicotianoideae, Anthocercideae](/taxonomy/Anthocercis) | /Anthocercideae | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002429-2025-06) | [GBIF](https://www.gbif.org/species/7300146) |
+|  Genus  |  Subfamily, tribe (subtribe) | PhyloCode | Occurrence data |
+|----------------------|------------------------|---------------------------|---------------------------|
+| *Alkekengi* Mill. | Solanoideae, Physalideae | /Physalideae | [GBIF](https://www.gbif.org/species/7299176) |
+| *Anisodus* Link & Otto | Solanoideae, Hyoscyameae | /Hyoschyaminae | [GBIF](https://www.gbif.org/species/7299128) |
+| *Anthocercis* Labill. | Nicotianoideae, Anthocercideae | /Anthocercideae | [GBIF](https://www.gbif.org/species/7300146) |

@@ -32,6 +32,8 @@ Annual herbs or short-lived perennials (0.2) 0.5-1.2 (2) m high, usually rather 
 
 <img src="/assets/images/Datura_Hunziker_plate_clean.jpg" alt="Datura from Hunziker (2001) Genera Solanacearum" width="100%">
 
+<img src="/assets/images/Datura_Gabe_Gallagher.jpg" alt="Datura species by Gabe Gallagher" width="100%">
+
 ## To learn more
 Avery, A.G., Satina, S. & Rietsema, J. (1959) Blakeslee: The genus *Datura*. New York: Ronald Press Co.
 

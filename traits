@@ -1,0 +1,13 @@
+---
+title: Traits
+layout: heroImage
+description: A global taxonomic resource for the nightshade family
+background:  "{{ site.data.images.nolana.src }}"
+imageLicense: "{{ site.data.images.nolana.caption }}"
+height: 50vh
+---
+
+## Traits of Solanaceae
+
+
+Solanaceae species show remarkable diversity of traits, including morphology, anatomy, pollination syndromes, and secondary chemistry. More to be added.

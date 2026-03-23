@@ -28,7 +28,7 @@ Only a set of Solanaceae genera are found outside of the Americas. To visualise 
 Below is an alphabetical list of all genera, with the subfamily designation and number of species, as currently accepted. The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
 
 |  Genus  |  # species | Subfamily, tribe | WFO  | GBIF | 
-|----------------------|------------------------|---------------------------|------------------------|------------------------|
+|----------------------|:------------------------:|---------------------------|------------------------|------------------------|
 | *Alkekengi* Mill. | <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-4000001218-2025-12&limit=0&rank=species&status=accepted">2.730</span> | Solanoideae, Physalideae | [SolanaceaeSource](/taxonomy/taxon/wfo-4000001218-2025-12) | [GBIF](https://www.gbif.org/species/7299176) |
 | *Anisodus* Link & Otto | <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-4000002178-2025-12&limit=0&rank=species&status=accepted">2.730</span> | Solanoideae, Hyoscyameae | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002178-2025-12) | [GBIF](https://www.gbif.org/species/7299128) |
 | *Anthocercis* Labill. | <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-4000002429-2025-12&limit=0&rank=species&status=accepted">2.730</span> | Nicotianoideae, Anthocercideae | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002429-2025-12) | [GBIF](https://www.gbif.org/species/7300146) |

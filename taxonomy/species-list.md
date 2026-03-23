@@ -25,8 +25,8 @@ Below is an alphabetical list of all genera, with the subfamily designation and 
 
 The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
 
-|  Genus  |  Subfamily & Tribe | WFO  | GBIF |
-|----------------------|------------------------|---------------------------|------------------------|
-| *Alkekengi* Mill. | [Solanoideae, Physalideae](/taxonomy/Physalis) | [SolanaceaeSource](/taxonomy/taxon/wfo-4000001218-2025-06) | [GBIF](https://www.gbif.org/species/7299176) |
-| *Anisodus* Link & Otto | [Solanoideae, Hyoscyameae](/taxonomy/Atropa) | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002178-2025-06) | [GBIF](https://www.gbif.org/species/7299128) |
-| *Anthocercis* Labill. | [Nicotianoideae, Anthocercideae](/taxonomy/Anthocercis) | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002429-2025-06) | [GBIF](https://www.gbif.org/species/7300146) |
+|  Genus  |  Subfamily & Tribe | WFO  | GBIF | # species |
+|----------------------|------------------------|---------------------------|------------------------|------------------------|
+| *Alkekengi* Mill. | [Solanoideae, Physalideae](/taxonomy/Physalis) | [SolanaceaeSource](/taxonomy/taxon/wfo-4000001218-2025-12) | [GBIF](https://www.gbif.org/species/7299176) | title: <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-4000001218-2025-12&limit=0&rank=species&status=accepted">2.730</span>      description: Species |
+| *Anisodus* Link & Otto | [Solanoideae, Hyoscyameae](/taxonomy/Atropa) | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002178-2025-12) | [GBIF](https://www.gbif.org/species/7299128) |
+| *Anthocercis* Labill. | [Nicotianoideae, Anthocercideae](/taxonomy/Anthocercis) | [SolanaceaeSource](/taxonomy/taxon/wfo-4000002429-2025-12) | [GBIF](https://www.gbif.org/species/7300146) |

@@ -52,5 +52,19 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 
 |Genus  | Data Source|
 | --------------------- |------------------------------|
-| Datura stramonium L.  | [GBIF](https://www.gbif.org/species/2947111)  |
+| Datura arenicola Gentry ex Bye & Luna |  [GBIF](https://www.gbif.org/species/7627442)  | 
+| Datura ceratocaula Ortega |  [GBIF](https://www.gbif.org/species/7530087)  | 
+| Datura discolor Bernh. |  [GBIF](https://www.gbif.org/species/2928735)  | 
+| Datura ferox L. |  [GBIF](https://www.gbif.org/species/7894250)  | 
+| Datura innoxia Mill. |  [GBIF](https://www.gbif.org/species/2928755)  | 
+| Datura kymatocarpa A.S.Barclay |  [GBIF](https://www.gbif.org/species/2928750)  | 
+| Datura lanosa Bye |  [GBIF](https://www.gbif.org/species/3798775)  | 
+| Datura metel L. |  [GBIF](https://www.gbif.org/species/2928747)  | 
+| Datura pruinosa Greenm. |  [GBIF](https://www.gbif.org/species/2928736)  | 
+| Datura quercifolia Kunth | [GBIF](https://www.gbif.org/species/2928738)  |
+| Datura reburra A.S.Barclay | [GBIF](https://www.gbif.org/species/2928749)  |
+| Datura stramonium L.  | [GBIF](https://www.gbif.org/species/2928751)  |
+| Datura wrightii Regel | [GBIF](https://www.gbif.org/species/2928741)  |
+| Datura leichhardtii F.Muell. Ex Benth. | [GBIF](https://www.gbif.org/species/7893055)  | 
+
 

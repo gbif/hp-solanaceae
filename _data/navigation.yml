@@ -2,8 +2,6 @@
 
 - text: About
   href: /about
-- text: Occurrence Data
-  href: /occurrence/search
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
@@ -85,6 +83,8 @@
     href: /taxonomy/Solanum
   - text: Witheringia
     href: /taxonomy/Witheringia
+- text: Occurrence Data
+  href: /occurrence/search
 - text: Phylogeny
   href: /phylogeny/explore
 - text: Diversity

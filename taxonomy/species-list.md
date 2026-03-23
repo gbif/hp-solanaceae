@@ -16,14 +16,16 @@ height: 70vh
 ## Taxonomy
 Solanaceae Source taxonomy here is an overview of the current consensus of Solanaceae taxonomy by a [global network of specialists](https://about.worldfloraonline.org/tens/solanaceaesource-org). The taxonomy is updated every 6 months following the [World Flora Online (WFO)](https://about.worldfloraonline.org/) release dates in June and December each year. If you would like to become a member of the Solanaceae Source team, please contact us. 
 
-## Species List
+## Species list
 The most recent version of this taxonomy can be accessed through the [menu on the left](/taxonomy/browse). The species list is derived from World Flora Online as the WFO taxonomy is worked on by [Solanaceae Taxonomic Expert Network](https://about.worldfloraonline.org/tens/solanaceaesource-org) and can be downloaded in different formats from the [WFO site](https://www.worldfloraonline.org/downloadData). 
+
+## Generic diversity
+Only a set of Solanaceae genera are found outside of the Americas. To visualise the current list of accepted genera for each botanical country, Haley Gladitsch has created this [interactive map of Solanaceae genera](https://haglad.github.io/Solanaceae_map.github.io/solgenmap_smaller.html). The image below shows the generic diversity of Solanaceae by botanical country as a static view.
+<img src="/assets/images/SolanaceaeGenericDiversity.png" alt="Generic diversity of Solanaceae by botanical country, by Haley Gladitsch" width="100%">
 
 ## List of genera
 
-Below is an alphabetical list of all genera, with the subfamily designation and number of species, as currently accepted.
-
-The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
+Below is an alphabetical list of all genera, with the subfamily designation and number of species, as currently accepted. The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
 
 |  Genus  |  # species | Subfamily, tribe | WFO  | GBIF | 
 |----------------------|------------------------|---------------------------|------------------------|------------------------|

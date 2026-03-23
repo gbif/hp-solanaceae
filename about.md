@@ -1,13 +1,17 @@
 ---
-lang-ref: about
-title: About Solanaceae
 layout: heroImage
 sideNavigation: sidenav.taxonomy
-description: The Family and the Community
+composition:
+  - type: postHeader
+  - type: pageMarkdown
+title: About Solanaceae
+lang-ref: about
 background:  "{{ site.data.images.nolana.src }}"
 imageLicense: "{{ site.data.images.nolana.caption }}"
 height: 50vh
+description: The Family and the Community
 ---
+
 
 ## Solanaceae Family
 

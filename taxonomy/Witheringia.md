@@ -6,7 +6,7 @@ composition:
   - type: pageMarkdown
 title: Witheringia
 lang-ref: Witheringia
-background: assets/images/Physalideae/BM1233_Solanaceae (2).JPG
+background: assets/images/Physalideae/BM1233_Solanaceae (2) small.JPG
 imageLicense: |
   *Witheringia solanacea* L'Hér. (Melchor-Castro 1233)
 description: Information about *Witheringia*

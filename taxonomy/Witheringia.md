@@ -6,9 +6,9 @@ composition:
   - type: pageMarkdown
 title: Witheringia
 lang-ref: Witheringia
-background: assets/images/genuspages/Witheringia solanacea Sierra 213.jpg
+background: assets/images/Physalideae/BM1233_Solanaceae (2).JPG
 imageLicense: |
-  *Witheringia solanacea* L'Hér. (Sierra 213)
+  *Witheringia solanacea* L'Hér. (Melchor-Castro 1233)
 description: Information about *Witheringia*
 height: 70vh
 toc: true

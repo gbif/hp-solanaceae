@@ -33,7 +33,7 @@ Herbs , shrubs, or small trees 0.5-6 m tall, glabrous or pubescent with simple o
 
 ## Images
 Photo plate of *Witheringia correana* from Stone et al. (2024): A-B. Stone & Flores 1543; C. Stone & Flores 1545; D-E. cf. Bohs 2512; F. Stone & Flores 1548. Photos by J. Flores.
-<img src="assets/images/genuspages/Witheringia correana.jpg" alt="Witheringia correana by J. Flores" width="100%">
+<img src="/assets/images/genuspages/Witheringia correana.jpg" alt="Witheringia correana by J. Flores" width="100%">
 Line drawing of *Witheringia knappiae* from original description (as *Brachistus knappiae*).
 <img src="/assets/images/genuspages/Witheringia knappiae.jpg" alt="Witheringia knappiae from original description of Brachistus knappiae" width="100%">
 
@@ -49,22 +49,22 @@ Below is an alphabetical list of all accepted species following the Solanaceae T
 
 |Genus  | Species description | Occurrence data |
 | --------------------- |------------------------------|------------------------------|
-| *Witheringia affinis* (C.V.Morton) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001329805) | [GBIF](https://www.gbif.org/species/7627442)  | 
-| *Witheringia asterotricha* (Standl.) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021278) | [GBIF](https://www.gbif.org/species/7530087)  | 
-| *Witheringia bristaniana* D’Arcy |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021288) | [GBIF](https://www.gbif.org/species/2928735)  | 
-| *Witheringia coccoloboides* (Dammer) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021301) | [GBIF](https://www.gbif.org/species/7894250)  | 
-| *Witheringia correana* D’Arcy |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021314) | [GBIF](https://www.gbif.org/species/2928755)  | 
-| *Witheringia fuscoviolacea* (Cufod.) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021319) | [GBIF](https://www.gbif.org/species/2928750)  | 
-| *Witheringia hunzikeri* D’Arcy |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021324) | [GBIF](https://www.gbif.org/species/3798775)  | 
-| *Witheringia killipiana* Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021339) | [GBIF](https://www.gbif.org/species/2928747)  | 
-| *Witheringia knappiae* (Mont.-Castro & Sousa-Peña) Bohs | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021356) | [GBIF](https://www.gbif.org/species/2928736)  | 
-| *Witheringia laxissima* (Standl.) D’Arcy | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021359) | [GBIF](https://www.gbif.org/species/2928738)  |
-| *Witheringia macrantha* (Standl. & C.V.Morton) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021360) | [GBIF](https://www.gbif.org/species/2928749)  |
-| *Witheringia maculata* (Standl. & C.V.Morton) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021374) | [GBIF](https://www.gbif.org/species/2928751)  | 
-| *Witheringia meiantha* (Donn.Sm.) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021401) | [GBIF](https://www.gbif.org/species/2928741)  |
-| *Witheringia mexicana* (B.L.Rob) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
-| *Witheringia mortonii* Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
-| *Witheringia nelsonii* (Fernald) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
-| *Witheringia solanacea* L’Hér. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
-| *Witheringia stellata* (Greenm.) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
-| *Witheringia stramoniifolia* Kunth | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001021327) | [GBIF](https://www.gbif.org/species/7893055)  | 
+| *Witheringia affinis* (C.V.Morton) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032794) | [GBIF](https://www.gbif.org/species/5581213)  | 
+| *Witheringia asterotricha* (Standl.) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032800) | [GBIF](https://www.gbif.org/species/5581205)  | 
+| *Witheringia bristaniana* D’Arcy |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032810) | [GBIF](https://www.gbif.org/species/2928735)  | 
+| *Witheringia coccoloboides* (Dammer) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032810) | [GBIF](https://www.gbif.org/species/5581183)  | 
+| *Witheringia correana* D’Arcy |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032814) | [GBIF](https://www.gbif.org/species/5581176)  | 
+| *Witheringia fuscoviolacea* (Cufod.) Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032833) | [GBIF](https://www.gbif.org/species/5581136)  | 
+| *Witheringia hunzikeri* D’Arcy |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032840) | [GBIF](https://www.gbif.org/species/5581127)  | 
+| *Witheringia killipiana* Hunz. |  [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032842) | [GBIF](https://www.gbif.org/species/5581123)  | 
+| *Witheringia knappiae* (Mont.-Castro & Sousa-Peña) Bohs | [WFO](https://www.worldfloraonline.org/taxon/wfo-1000070560) | [GBIF](https://www.gbif.org/species/3800951)  | 
+| *Witheringia laxissima* (Standl.) D’Arcy | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032845) | [GBIF](https://www.gbif.org/species/5581119)  |
+| *Witheringia macrantha* (Standl. & C.V.Morton) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032847) | [GBIF](https://www.gbif.org/species/5581116)  |
+| *Witheringia maculata* (Standl. & C.V.Morton) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032849) | [GBIF](https://www.gbif.org/species/5581111)  | 
+| *Witheringia meiantha* (Donn.Sm.) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032852) | [GBIF](https://www.gbif.org/species/8515625)  |
+| *Witheringia mexicana* (B.L.Rob) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032854) | [GBIF](https://www.gbif.org/species/5581098)  | 
+| *Witheringia mortonii* Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032860) | [GBIF](https://www.gbif.org/species/5581079)  | 
+| *Witheringia nelsonii* (Fernald) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032862) | [GBIF](https://www.gbif.org/species/5581075)  | 
+| *Witheringia solanacea* L’Hér. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032882) | [GBIF](https://www.gbif.org/species/8625966)  | 
+| *Witheringia stellata* (Greenm.) Hunz. | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032887) | [GBIF](https://www.gbif.org/species/5581023)  | 
+| *Witheringia stramoniifolia* Kunth | [WFO](https://www.worldfloraonline.org/taxon/wfo-0001032888) | [GBIF](https://www.gbif.org/species/5581021)  | 

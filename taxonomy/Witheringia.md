@@ -32,12 +32,14 @@ Type species: *W. solanacea* L’Hér.
 Herbs, shrubs, or small trees 0.5-6 m tall, glabrous or pubescent with simple or branched, glandular or eglandular hairs; prickles absent. Leaves petiolate, simple, entire or shallowly lobed, solitary or usually paired and unequal in size, membranaceous to subcoriaceous. Inflorescences axillary, sessile or pedunculate. Flowers 4- or 5- merous, radially symmetrical. Calyx campanulate, truncate to shallowly or deeply 4- or 5-lobed, accrescent or not, subtending to nearly completely enclosing the fruit. Corolla white, greenish, yellowish, or purplish, often with greenish spots at base, stellate, campanulate or urceolate, 4- or 5-lobed, generally with a ring of pubescence internally near the level of filament insertion. Stamens 4-5, equal, exserted or included; filaments usually shorter than the anthers, inserted near or above middle of corolla tube, pubescent; anthers basifixed, often apiculate, dehiscing by longitudinal slits. Ovary 2-carpellate, glabrous or pubescent, with a basal nectar disk; style cylindrical or umbrella-shaped, exserted or included; stigma capitate. Fruit a juicy berry. Seeds many per fruit, flattened; embryo curved.
 
 ## Images
-Photo of *Witheringia solanacea* based on Sierra 213. Photo by G.Sierra.
-<img src="/assets/images/genuspages/Witheringia solanacea Sierra 213 large.jpg" alt="Witheringia solanacea by G.Sierra" width="100%">
 Photo plate of *Witheringia correana* from Stone et al. (2024): A-B. Stone & Flores 1543; C. Stone & Flores 1545; D-E. cf. Bohs 2512; F. Stone & Flores 1548. Photos by J. Flores.
 <img src="/assets/images/genuspages/Witheringia correana.jpg" alt="Witheringia correana by J. Flores" width="100%">
+
 Line drawing of *Witheringia knappiae* from original description (as *Brachistus knappiae*).
 <img src="/assets/images/genuspages/Witheringia knappiae.jpg" alt="Witheringia knappiae from original description of Brachistus knappiae" width="100%">
+
+Photo of *Witheringia solanacea* based on Sierra 213. Photo by G.Sierra.
+<img src="/assets/images/genuspages/Witheringia solanacea Sierra 213 large.jpg" alt="Witheringia solanacea by G.Sierra" width="100%">
 
 ## To learn more
 Bohs, L. (2015) Solanaceae. Pp. 205-336 in Manual de Plantas de Costa Rica, vol. VIII, eds. B.E.Hammel, M.H.Grayum, C.Herrera & N.Zamora. Monographs in Systematic Botany from the Missouri Botanical Garden 131. St. Louis, MO: Missouri Botanical Garden Press.

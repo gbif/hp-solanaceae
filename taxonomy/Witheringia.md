@@ -49,7 +49,7 @@ Hunziker, A.T. (1969) Estudios sobre Solanaceae. V. Contribución al conocimient
 Stone, J.L., Flores, J. & Bohs, L. (2024) Phylogenetic relationships of *Brachistus* and *Witheringia* (Solanaceae). Syst. Bot. 49(2): 496–506. 
 
 ## List of species
-Below is an alphabetical list of all accepted species following the Solanaceae TEN WFO taxonomy. Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
+Below is an alphabetical list of all accepted species following the Solanaceae TEN WFO taxonomy. Please see the [Species List and Synonyms](/taxonomy/species-list) and [Taxonomy](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
 
 |Genus  | Species description | Occurrence data |
 | --------------------- |------------------------------|------------------------------|

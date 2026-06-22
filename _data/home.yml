@@ -9,7 +9,7 @@ stats:
     - title: <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-7000000654-2026-06&limit=0&rank=species&status=accepted">2.728</span>
       description: Species
       #background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
-      #https://www.checklistbank.org/dataset/2004/classification?taxonKey=wfo-7000000654-2025-12
+      #https://www.checklistbank.org/dataset/2004/classification?taxonKey=wfo-7000000654-2026-06
       href: /taxonomy/browse
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     - title: <span data-ajax-path="total" data-ajax-url="https://api.checklistbank.org/dataset/2004/nameusage/search?TAXON_ID=wfo-7000000654-2026-06&limit=0&rank=genus&status=accepted">102</span>

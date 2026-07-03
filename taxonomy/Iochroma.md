@@ -4,71 +4,60 @@ sideNavigation: sidenav.taxonomy
 composition:
   - type: postHeader
   - type: pageMarkdown
-title: Iochroma
-lang-ref: Iochroma
-background: /assets/images/Solanoideae/Solaneae/Sarkinen_4560_Jaltomata_repandidentata_DSC_7033.JPG
+title: Iochrominae
+lang-ref: Iochrominae
+background: assets/images/genuspages/Iochroma_australe. photo by Dinkum.jpg
 imageLicense: |
-  *Jaltomata_repandidentata* (Dunal) Hunz. (photo by T.Särkinen)
-description: Information about *Iochroma* and related genera
+  *Eriolarynx australis* (Griseb.) J.M.H.Shaw (photo by Dinkum)
+description: Information about the *Iochrominae* clade
 height: 70vh
 toc: true
 ---
 
 ## Introduction
-With 17 genera and approximately 85 species, Dialioideae is the second smallest of the legume subfamilies. *Dialium* is a pantropical genus of c. 30 species, *Labichea* includes approximately 14 species, but otherwise the subfamily mostly comprises small genera with few species, eight of which are monospecific. Several of these small genera are considered threatened and have rarely been collected in nature.
+*Iochroma* and its allies (*Dunalia*, *Eriolarynx*, *Saracha*, *Trozelia*, and *Vassobia*) comprise the South American Iochrominae clade (sensu Olmstead et al. 1999). The roughly 53 species of Iochrominae belong to the tomatillo clade /Physalideae J. Miers 1849 [R. G. Olmstead & R. Deanna]; see Deanna et al. (2026) for the most recent family-level classification. All of the species of Iochrominae are woody shrubs or treelets and their fruits are berries, although they vary in many other morphological features. *Dunalia* species are often spiny, some have conspicuous stapets (fused stamen-petal tissue that forms appendances on either side of the filament) (Hunziker 1960), and one of the species (*D. spathulata*) is dioecious. The diagnostic feature for *Eriolarynx* is the dense ring of hairs at the base of the corolla tube (Hunziker 1984). *Vassobia* comprises just two species, one a tall broad-leaved tree of the Yungas (*V. dichotoma*) and the other (*V. breviflora*) a thorny, dry forest shrub found from Bolivia to Argentina and Brazil. The only taxon that has expanded beyond South America is *Iochroma arborescens*, which occurs throughout South and Central America, as well as the Antilles. The other members of *Iochroma* are isolated to the Andes (except for *I. ellipticum* on the Galapagos) and together the genus houses the majority of the species in Iochrominae. *Iochroma* is known for its colorful tubular flowers (Smith & Baum 2006), which are pollinated primarily by hummingbirds and insects. Several species of *Iochroma* are cultivated as ornamentals worldwide. *Eriolarynx australis* (the 'Argentine Pear' or 'mini angel's trumpet') is also a popular ornamental and because of the ease of crossability within and among genera in Iochrominae (Smith & Baum 2007), is sometimes crossed with *Iochroma* to produce hybrids with a range of colors, including blue, purple, pink and white. Some of the species of Iochrominae (e.g., *Iochroma arborescens*) have edible fruit, and most seem to be bird-dispersed (Cruz 1985; Palacio et al. 2017). 
 
-All recent phylogenetic analyses place Dialioideae as sister to Caesalpinioideae + Papilionoideae. Recent analyses suggest an Oligocene crown age but no fossils have been clearly attributed to the subfamily and because of this the age of the clade has been difficult to assess with certainty. Although studies are in progress, generic level relationships within the subfamily remain poorly resolved, except for the position of the New World *Poeppigia*, initially considered a close relative of taxa now placed in Caesalpinioideae, which is clearly resolved as sister to the rest of the subfamily. 
+## Key features
+Members of Iochrominae are uniquely distinguished from many other related Solanaceae clades by their predominantly woody habit. They have entire leaves, and a few have thorns. Trichomes can be simple or branched, with or without glands. Stellate hairs are only found in *Saracha nigribaccata*. The flowers may be rotate, campanulate, tubular or salverform, and the color varies across the spectrum (white, purple, red, orange, green, red). All species possess annual nectaries at the base of the gynoecium, but only a handful of species are markedly scented (*I. arborescens*, *I. ellipticum*) The fruits are also diverse in color and while all are fleshy berries, some can become highly sclerotic at maturity. 
 
+## Distribution & ecology
+The clade is primarily found in Andean regions of western and southern South America, with the highest concentration of species found in the montane cloud forests of Colombia, Ecuador, and Peru. They typically inhabit forest clearings, rocky slopes, and disturbed areas between 1,800 and 2,800 meters in elevation.  While predominantly South American, *Iochroma arborescens*, formerly *Acnistus*, is distributed throughout Central America, Mexico, and the Caribbean.
 
-## Key Features
-Dialioideae are mostly unarmed trees or shrubs (Australian *Labichea* and *Petalostyles*). Their flowers are highly diverse, displaying multiple symmetries and widely varied numbers of floral organs. Organ loss is frequent in the subfamily. The subfamily is also unusual in that many Dialioideae have thyrsoid inflorescences, a rare condition in the primarily racemose Leguminosae. The fruit is often indehiscent and drupaceous or samaroid, also less typical of the legumes. Finally, most species of the subfamily lack vestured pits in their xylem (present in *Poeppigia* and *Mendoravia*), a feature that is otherwise present in all Leguminosae except Cercidoideae and Duparquetioideae.
+## Description
+* **Habit:** Woody shrubs to small trees, typically 1 to 5 meters tall. Stems are erect and branched, with some taxa producing spines.
+* **Leaves:** Alternate, simple, and typically ovate to elliptic. Margins are generally entire. The foliage can be glabrous, glabrescent or pubescent, with simple, branched, or rarely stellate trichomes, particularly on the abaxial surface.
+* **Inflorescences:** Axillary fascicles or terminal clusters, bearing few to many flowers, often pendulous. 
+* **Flowers:** 5-merous and actinomorphic. The corolla shape is highly variable—ranging from narrowly tubular and funnel-shaped (infundibuliform) to campanulate and rotate. Calyces are cupular or slightly urceolate with five lobes. The calyces often accrescent during fruit development (e.g. *I. cyaneum*).
+* **Stamens:** 5 stamens, included within or exserted from the corolla. The tissue joining the filament base to the corolla (the stapet) varies morphologically and is sometimes prominently winged or toothed. 
+* **Ovary:** Superior and bilocular, extending into a style with a capitate, often bi-lobed stigma.
+* **Fruit:** A globose to ovoid fleshy berry that matures to hues of green, yellow, orange, red or black. In some species, the fruit is partially enclosed by a persistent fruiting calyx (e.g. *I. calycinum*)
+* **Seeds:** Numerous, typically reniform in shape.
+* **Chromosome number:** Documented members of the clade are diploid with n=12 (Deanna et al. 2018)
 
-## Distribution and Ecology
-Dialioideae occur throughout the world tropics. They are native to South and Central America, Africa, Madagascar, South and Southeast Asia, south China, Australia, New Guinea and some Pacific islands. Most species of Dialioideae occur in the Rainforest biome, but *Poeppigia* (New World), *Eligmocarpus* and *Baudouinia* (both Madagascan) are Succulent biome plants, and *Labichea* and *Petalosytles* occur in the Savanna biome of Australia. 
+## Images
+Photo of *Iochroma fuchsioides* (Bonpl.) Miers by Stan Shebs.
+<img src="/assets/images/genuspages/Iochroma_fuchsioides. photo by Stan Shebs.jpg" alt="Iochroma fuchsioides by Stan Shebs" width="100%">
 
-## Formal Botanical Description
-As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
-
-Subfam. Dialioideae Legume Phylogeny Working Group, stat. nov. ≡ Dialiinae H.S.Irwin & Barneby in Polhill & Raven, Adv. Legume Syst. 1: 100. 1981.
-
-Type: *Dialium* L.
-
-Unarmed trees or shrubs, rarely suffruticose (*Labichea* Gaudich. ex DC., *Petalostylis* R.Br.); specialised extrafloral nectaries lacking on petiole and leaf rachis and on leaflet surface. Stipules in lateral position, free or absent. Leaves imparipinnate, rarely paripinnate (*Eligmocarpus* Capuron, *Poeppigia* C.Presl), 1-foliolate (*Baudouinia* Baill., *Labichea*, *Mendoravia* Capuron, *Uittienia* Steenis) or palmately compound (*Labichea*), leaflets alternate, rarely opposite (*Eligmocarpus*, *Poeppigia*), exstipellate. Inflorescences highly branched, thyrsoid, less commonly racemes with distichous anthotaxy (*Labichea*, *Petalostylis*), borne in both terminal and axillary positions, or reduced to one axillary flower (*Petalostylis*); bracteoles small or absent. Flowers bisexual (polygamous in *Apuleia* Mart.), radially or slightly to strongly bilaterally symmetrical, hypanthium rarely present, receptacle may be broad and flattened, bearing nectary-like bodies; sepals commonly 5, reduced to 4 (*Labichea*, *Storckiella* Seem.) or 3 (*Apuleia*, *Dialium*), rarely 6 (*Mendoravia*), free, equal to sub-equal; petals 5 or fewer (0, 1, 3, 4), rarely 6 (petal number often equivalent to sepal number), free, equal to subequal, imbricate, the adaxial petal innermost; fertile stamens 5 or fewer, rarely 6–10 (some *Dialium* spp., *Poeppigia*), usually only antesepalous whorl present, free, uniform, rarely dimorphic (*Eligmocarpus*), anthers basifixed, rarely dorsifixed (*Poeppigia*), dehiscing via longitudinal slits, often reduced to a short apical, poricidal slit, staminodes present or absent; pollen in tricolporate monads with punctate or finely reticulate, rarely striate (some *Dialium*) sculpture patterns; gynoecium 1-carpellate (sometimes bicarpellate in scattered flowers of *Dialium*), ovary stipitate or sessile, ovules frequently 2 (1–many). Fruits commonly indehiscent drupaceous or samaroid, rarely dehiscent (*Eligmocarpus*, *Labichea*, *Mendoravia*, *Petalostylis*) or the drupaceous fruit with indurating endocarp breaking up in one seeded segments (*Baudouinia*). Seeds 1–2, rarely more; embryo straight.
-Vestured pits absent in the secondary xylem, rarely present (*Poeppigia*, *Mendoravia*); silica bodies sometimes present (*Apuleia*, *Dialium*, *Dicorynia* Benth., *Distemonanthus* Benth.); septate fibres rarely present (*Apuleia*, *Distemonanthus*, *Poeppigia*); storeyed rays often present. Root nodules absent. 2n = 28 (most genera unsurveyed).
-
+Photo of *Vassobia breviflora* (Sendtn.) Hunz. by Alan Hentz.
+<img src="/assets/images/genuspages/Vassobia_breviflora_327510504. photo by Alan Hentz.jpg" alt="Vassobia breviflora by Alan Hentz" width="100%">
 
 ## To learn more
-Falcão MJA, Mansano VF, Pinto RB. 2016. A taxonomic revision of the genus *Dialium* (Leguminosae: Dialiinae) in the Neotropics. Phytotaxa 283: 123–142.
-
-Falcão MJA, JV Paulino, FJ Kochanovski, RC Figueiredo, JP Basso-Alves, VF Mansano. 2020. Development of inflorescences and flowers in Fabaceae subfamily Dialioideae: an evolutionary overview and complete ontogenetic series for *Apuleia* and *Martiodendron*. Botanical Journal of the Linnean Society 193: 19–46. https://doi.org/10.1093/botlinnean/boz098
-
-Zimmerman E., Herendeen PS, Lewis GP, Bruneau A. 2017. Floral evolution and phylogeny of the Dialioideae, a diverse subfamily of tropical legumes. American Journal of Botany 104: 1019–1041.
-
-Zimmerman, E., G. Prenner & A. Bruneau. 2013. Floral ontogeny in Dialiinae (Caesalpinioideae: Cassieae), a study in organ loss and instability. South African Journal of Botany 89: 188–209.
+* Cruz, A. (1981). Bird activity and seed dispersal of a montane forest tree (Dunalia arborescens) in Jamaica. *Biotropica*, 13, 34–44.
+* Deanna, R., Barboza, G.E., Bohs, L., Dodsworth, S., Gagnon, E., Giacomin, L., Knapp, S., Orejuela, A., Poczai, P., Särkinen, T., Smith, S.D. & Olmstead, R.G. (2026) A new phylogeny and phylogenetic classification for Solanaceae. *Taxon*, 75: e70129.
+* Hunziker, A. T. (1960). Sinopsis taxonómica del género *Dunalia* H. B. K. *Boletín de la Academia Nacional de Ciencias*, 51, 211–244.
+* Hunziker, A. T. (1984). Estudios sobre Solanaceae XIX. Sinopsis de *Vassobia**. *Kurtziana* 17: 91–118.
+* Olmstead, R. G., Sweere, J. A., Spangler, E., Bohs, L., & Palmer, J. D. (1999). Phylogeny and provisional classification of the Solanaceae based on chloroplast DNA. In Nee, M., Symon, D. E., Lester, R. N., & Jessop, J. P., eds. Solanaceae IV: advances in biology and utilization, pp. 111–137. Royal Botanic Gardens, Kew, UK.
+* Smith, S. D., & Baum, D. A. (2006). Phylogenetics of the florally diverse Andean clade Iochrominae (Solanaceae). *American Journal of Botany*, 93(8), 1140-1153.
+* Smith, S. D., & Baum, D. A. (2007). Systematics of Iochrominae (Solanaceae): Patterns in floral diversity and interspecific crossability. *Acta Horticulturae*, 745, 241-254.
+* Deanna, R., Särkinen, T., Chiarini, F., & Smith, S. D. (2018). Patterns of chromosomal evolution in the florally diverse Andean clade Iochrominae (Solanaceae). *Perspectives in Plant Ecology, Evolution and Systematics*, 35, 31-43.
+* Palacio, F. X., Valoy, M., Bernacki, F., Sánchez, M. S., Núñez-Montellano, M. G., Varela, O., & Ordano, M. (2017). Bird fruit consumption results from the interaction between fruit-handling behaviour and fruit crop size. *Ethology, Ecology & Evolution*, 29, 24–37.
 
 ## List of genera
-Below is an alphabetical list of all genera accepted by the LPWG with links out to the taxonomic pages on our portal, GBIF and World Checklist of Vascular Plants (Kew). Over time this list will be updated to reflect the evolving taxonomy. 
-
-Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
-
-
-
-|Genus  | Data Source|
-| --------------------- |------------------------------|------------------------------|
-| Androcalymma Dwyer  |[Legume Data Portal](/taxonomy/taxon/2637022)|  [GBIF](https://www.gbif.org/species/2947111)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296592-2)  |
-| Apuleia Mart. |[Legume Data Portal](/taxonomy/taxon/2644498)|  [GBIF](https://www.gbif.org/species/2955914)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331358-2)  |
-| Baudouinia Baill. |[Legume Data Portal](/taxonomy/taxon/2671237)|  [GBIF](https://www.gbif.org/species/2963752)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21792-1) |
-| Dialium L.  |[Legume Data Portal](/taxonomy/taxon/2763452)|  [GBIF](https://www.gbif.org/species/2970932)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22238-1) |
-| Dicorynia Benth.  |[Legume Data Portal](/taxonomy/taxon/2766794)|  [GBIF](https://www.gbif.org/species/2944649)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22251-1) |
-| Distemonanthus Benth. |[Legume Data Portal](/taxonomy/taxon/2773184)|  [GBIF](https://www.gbif.org/species/2964856)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22286-1) |
-| Eligmocarpus Capuron  |[Legume Data Portal](/taxonomy/taxon/2787570)|  [GBIF](https://www.gbif.org/species/2960218)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22353-1) |
-| Kalappia Kosterm. |[Legume Data Portal](/taxonomy/taxon/2336144)|  [GBIF](https://www.gbif.org/species/2939855)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22688-1) |
-| Koompassia Maingay ex Benth.  |[Legume Data Portal](/taxonomy/taxon/2336264)|  [GBIF](https://www.gbif.org/species/2952890)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22706-1) |
-| Labichea Gaudich. ex DC.  |[Legume Data Portal](/taxonomy/taxon/2350870)|  [GBIF](https://www.gbif.org/species/2975908)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22721-1) |
-| Martiodendron Gleason |[Legume Data Portal](/taxonomy/taxon/2368514)|  [GBIF](https://www.gbif.org/species/2948702)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326830-2)|
-| Mendoravia Capuron  |[Legume Data Portal](/taxonomy/taxon/2368027)|  [GBIF](https://www.gbif.org/species/2960417)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22926-1) |
-| Petalostylis R.Br.  |[Legume Data Portal](/taxonomy/taxon/2538854)|  [GBIF](https://www.gbif.org/species/8293499)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23198-1) |
-| Poeppigia C.Presl |[Legume Data Portal](/taxonomy/taxon/2535922)|  [GBIF](https://www.gbif.org/species/5938931)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30241950-2)  |
-| Storckiella Seem. |[Legume Data Portal](/taxonomy/taxon/2478158)|  [GBIF](https://www.gbif.org/species/2949438)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1) |
-| Uittienia Steenis |[Legume Data Portal](/taxonomy/taxon/2446612)|  [GBIF](https://www.gbif.org/species/8351407)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1) |
-| Zenia Chun  |[Legume Data Portal](/taxonomy/taxon/2470192)|  [GBIF](https://www.gbif.org/species/2963590)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1) |
+| Genus | Description | Occurrence Data |
+| --- | --- | --- |
+| *Iochroma* (incl. *Acnistus*) | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000019120) | [GBIF](https://www.gbif.org/taxon/54PS) |
+| *Saracha* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000033999) | [GBIF](https://www.gbif.org/taxon/63RPP) |
+| *Dunalia* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000012741) | [GBIF](https://www.gbif.org/taxon/48QG) |
+| *Vassobia* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000040056) | [GBIF](https://www.gbif.org/taxon/63VLC) |
+| *Trozelia* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000039487) | [GBIF](https://www.gbif.org/taxon/L2TCX) |
+| *Eriolarynx* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000013844) | [GBIF](https://www.gbif.org/taxon/633LW) |

@@ -53,11 +53,13 @@ Photo of *Vassobia breviflora* (Sendtn.) Hunz. by Alan Hentz.
 * Palacio, F. X., Valoy, M., Bernacki, F., Sánchez, M. S., Núñez-Montellano, M. G., Varela, O., & Ordano, M. (2017). Bird fruit consumption results from the interaction between fruit-handling behaviour and fruit crop size. *Ethology, Ecology & Evolution*, 29, 24–37.
 
 ## List of genera
-| Genus  | Species description | Occurrence data |
-| --------------------- |------------------------------|------------------------------|
-| *Iochroma* (incl. *Acnistus*) | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000019120) | [GBIF](https://www.gbif.org/taxon/54PS) |
-| *Saracha* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000033999) | [GBIF](https://www.gbif.org/taxon/63RPP) |
-| *Dunalia* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000012741) | [GBIF](https://www.gbif.org/taxon/48QG) |
-| *Vassobia* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000040056) | [GBIF](https://www.gbif.org/taxon/63VLC) |
-| *Trozelia* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000039487) | [GBIF](https://www.gbif.org/taxon/L2TCX) |
-| *Eriolarynx* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000013844) | [GBIF](https://www.gbif.org/taxon/633LW) |
+Below is an alphabetical list of all accepted genera following the Solanaceae TEN WFO taxonomy. Genera in **bold** are firmly accepted; genera not in bold need further research and their status as accepted is less certain. The current taxonomy is also accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
+
+|Genus  | Species description | Occurrence data |
+| ------------------------------- |------------------------------|------------------------------|
+| ***Iochroma*** incl. *Acnistus* | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000019120) | [GBIF](https://www.gbif.org/taxon/54PS) |
+| ***Saracha*** | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000033999) | [GBIF](https://www.gbif.org/taxon/63RPP) |
+| ***Dunalia*** | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000012741) | [GBIF](https://www.gbif.org/taxon/48QG) |
+| ***Vassobia*** | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000040056) | [GBIF](https://www.gbif.org/taxon/63VLC) |
+| ***Trozelia*** | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000039487) | [GBIF](https://www.gbif.org/taxon/L2TCX) |
+| ***Eriolarynx*** | [WFO](https://www.worldfloraonline.org/taxon/wfo-4000013844) | [GBIF](https://www.gbif.org/taxon/633LW) |
